@@ -1,0 +1,46 @@
+﻿query_a,query_b,shared_candidate_records,shared_records_with_pdf
+"""Vega 1""","""Vega 2""",24,6
+"""Luna 16""","""Luna 20""",16,7
+"""Mars 2""","""Mars 3""",9,4
+"""Vega 2""",Venera,7,3
+"""Luna 16""","""Luna 24""",6,1
+"""Mars 3""",Phobos,6,3
+"""Vega 1""",Venera,6,3
+"""Luna 16""",Lunokhod,5,4
+"""Mars 3""","""Mars 4""",5,1
+"""Mars 3""","""Mars 6""",5,2
+"""Mars 4""","""Mars 5""",5,4
+"""Mars 2""","""Mars 5""",4,2
+"""Mars 3""","""Mars 5""",4,2
+Phobos,Venera,4,2
+"""Luna 20""","""Luna 24""",3,1
+"""Luna 20""",Lunokhod,3,3
+"""Luna 24""",Phobos,3,0
+"""Mars 2""","""Mars 6""",3,2
+"""Mars 2""",Phobos,3,2
+"""Mars 4""","""Mars 6""",3,1
+"""Mars 6""","""Mars 7""",3,0
+Lavochkin,Venera,3,3
+"""Luna 16""",Phobos,2,0
+"""Luna 17""",Lunokhod,2,0
+"""Luna 20""",Phobos,2,0
+"""Mars 2""","""Mars 4""",2,2
+"""Vega 1""",Phobos,2,0
+"""Luna 13""","""Luna 9""",1,0
+"""Luna 16""","""Luna 17""",1,0
+"""Luna 17""","""Luna 21""",1,0
+"""Luna 24""","""Vega 1""",1,0
+"""Luna 24""","""Vega 2""",1,0
+"""Luna 24""",Venera,1,0
+"""Mars 2""","""Mars 7""",1,0
+"""Mars 2""",Venera,1,1
+"""Mars 3""","""Mars 7""",1,0
+"""Mars 4""","""Mars 7""",1,0
+"""Mars 4""",Phobos,1,0
+"""Mars 5""","""Mars 6""",1,1
+"""Mars 5""","""Mars 7""",1,0
+"""Mars 5""",Phobos,1,0
+"""Mars 5""",Venera,1,0
+"""Mars 7""",Phobos,1,0
+"""Vega 2""",Phobos,1,0
+Lunokhod,Venera,1,0

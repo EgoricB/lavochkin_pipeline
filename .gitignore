@@ -25,3 +25,13 @@ logs/
 .idea/
 .DS_Store
 Thumbs.db
+# Local Python environment and secrets
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+# Local NTRS corpus and generated working data
+/data/ntrs/

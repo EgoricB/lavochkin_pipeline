@@ -1,0 +1,164 @@
+{
+  "created_at_utc": "2026-10-15T21:20:30.927318+00:00",
+  "candidate_records": 1527,
+  "records_with_local_pdf": 604,
+  "records_without_local_pdf": 923,
+  "matched_pdf_files": 606,
+  "unmatched_pdf_files": 0,
+  "records_with_multiple_pdfs": 2,
+  "total_pdf_bytes": 4299956099,
+  "total_pages": 24637,
+  "pdfs_with_known_page_count": 606,
+  "mean_pages_per_pdf_with_known_count": 40.66,
+  "median_pages_per_pdf_with_known_count": 8.0,
+  "min_pages": 1,
+  "max_pages": 1757,
+  "extracted_text_chars": 51985925,
+  "pdf_statuses": {
+    "no_extractable_text": 1,
+    "text_extracted": 604,
+    "text_extraction_errors": 1
+  },
+  "distinct_search_queries": 20,
+  "records_found_by_multiple_queries": 98,
+  "records_by_number_of_search_queries": {
+    "1": 1429,
+    "2": 78,
+    "3": 16,
+    "4": 2,
+    "5": 2
+  },
+  "top_document_types": [
+    {
+      "document_type": "REPRINT",
+      "candidate_records": 515,
+      "records_with_pdf": 34,
+      "records_without_pdf": 481
+    },
+    {
+      "document_type": "CONFERENCE_PAPER",
+      "candidate_records": 393,
+      "records_with_pdf": 235,
+      "records_without_pdf": 158
+    },
+    {
+      "document_type": "CONFERENCE_PROCEEDINGS",
+      "candidate_records": 159,
+      "records_with_pdf": 25,
+      "records_without_pdf": 134
+    },
+    {
+      "document_type": "OTHER",
+      "candidate_records": 114,
+      "records_with_pdf": 33,
+      "records_without_pdf": 81
+    },
+    {
+      "document_type": "CONTRACTOR_REPORT",
+      "candidate_records": 106,
+      "records_with_pdf": 104,
+      "records_without_pdf": 2
+    },
+    {
+      "document_type": "PRESENTATION",
+      "candidate_records": 66,
+      "records_with_pdf": 49,
+      "records_without_pdf": 17
+    },
+    {
+      "document_type": "ABSTRACT",
+      "candidate_records": 45,
+      "records_with_pdf": 30,
+      "records_without_pdf": 15
+    },
+    {
+      "document_type": "TECHNICAL_MEMORANDUM",
+      "candidate_records": 38,
+      "records_with_pdf": 38,
+      "records_without_pdf": 0
+    },
+    {
+      "document_type": "PREPRINT",
+      "candidate_records": 30,
+      "records_with_pdf": 15,
+      "records_without_pdf": 15
+    },
+    {
+      "document_type": "EXTENDED_ABSTRACT",
+      "candidate_records": 16,
+      "records_with_pdf": 16,
+      "records_without_pdf": 0
+    }
+  ],
+  "top_search_queries": [
+    {
+      "query": "Phobos",
+      "candidate_records": 544,
+      "records_with_pdf": 229,
+      "records_without_pdf": 315
+    },
+    {
+      "query": "Venera",
+      "candidate_records": 363,
+      "records_with_pdf": 155,
+      "records_without_pdf": 208
+    },
+    {
+      "query": "\"Mars 2\"",
+      "candidate_records": 144,
+      "records_with_pdf": 95,
+      "records_without_pdf": 49
+    },
+    {
+      "query": "\"Luna 16\"",
+      "candidate_records": 135,
+      "records_with_pdf": 16,
+      "records_without_pdf": 119
+    },
+    {
+      "query": "\"Luna 24\"",
+      "candidate_records": 76,
+      "records_with_pdf": 8,
+      "records_without_pdf": 68
+    },
+    {
+      "query": "\"Luna 20\"",
+      "candidate_records": 71,
+      "records_with_pdf": 8,
+      "records_without_pdf": 63
+    },
+    {
+      "query": "\"Vega 1\"",
+      "candidate_records": 69,
+      "records_with_pdf": 14,
+      "records_without_pdf": 55
+    },
+    {
+      "query": "\"Mars 3\"",
+      "candidate_records": 57,
+      "records_with_pdf": 32,
+      "records_without_pdf": 25
+    },
+    {
+      "query": "\"Vega 2\"",
+      "candidate_records": 43,
+      "records_with_pdf": 14,
+      "records_without_pdf": 29
+    },
+    {
+      "query": "Lunokhod",
+      "candidate_records": 31,
+      "records_with_pdf": 14,
+      "records_without_pdf": 17
+    }
+  ],
+  "scope": "matched PDFs and all candidate metadata records",
+  "relevance": "UNREVIEWED",
+  "publication_year_analysis_performed": false,
+  "notes": [
+    "Search query counts overlap and must not be summed as unique records.",
+    "PDF presence does not establish thematic relevance.",
+    "Page totals count files, including multiple PDFs per record.",
+    "No extracted full text is stored by this script."
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "created_at_utc": "2026-10-15T21:23:54.916545+00:00",
+  "candidate_records": 1527,
+  "records_with_local_pdf": 604,
+  "classification_states_all": {
+    "AMBIGUOUS_MENTIONS": 525,
+    "MENTIONS_FOUND": 738,
+    "NO_RULE_MATCH": 264
+  },
+  "classification_states_with_pdf": {
+    "AMBIGUOUS_MENTIONS": 214,
+    "MENTIONS_FOUND": 215,
+    "NO_RULE_MATCH": 175
+  },
+  "preliminary_label_counts": [
+    {
+      "label": "Venera",
+      "candidate_records": 331,
+      "records_with_pdf": 132
+    },
+    {
+      "label": "Luna 16",
+      "candidate_records": 130,
+      "records_with_pdf": 14
+    },
+    {
+      "label": "Luna 24",
+      "candidate_records": 71,
+      "records_with_pdf": 8
+    },
+    {
+      "label": "Vega 1",
+      "candidate_records": 68,
+      "records_with_pdf": 14
+    },
+    {
+      "label": "Luna 20",
+      "candidate_records": 67,
+      "records_with_pdf": 6
+    },
+    {
+      "label": "Phobos 2",
+      "candidate_records": 56,
+      "records_with_pdf": 16
+    },
+    {
+      "label": "Vega 2",
+      "candidate_records": 37,
+      "records_with_pdf": 12
+    },
+    {
+      "label": "Lunokhod",
+      "candidate_records": 28,
+      "records_with_pdf": 12
+    },
+    {
+      "label": "Luna 10",
+      "candidate_records": 20,
+      "records_with_pdf": 17
+    },
+    {
+      "label": "Mars 3",
+      "candidate_records": 18,
+      "records_with_pdf": 8
+    },
+    {
+      "label": "Mars 2",
+      "candidate_records": 17,
+      "records_with_pdf": 6
+    },
+    {
+      "label": "Luna 9",
+      "candidate_records": 12,
+      "records_with_pdf": 6
+    },
+    {
+      "label": "Mars 5",
+      "candidate_records": 8,
+      "records_with_pdf": 3
+    },
+    {
+      "label": "Mars 4",
+      "candidate_records": 5,
+      "records_with_pdf": 2
+    },
+    {
+      "label": "Mars 6",
+      "candidate_records": 5,
+      "records_with_pdf": 1
+    },
+    {
+      "label": "Luna 13",
+      "candidate_records": 4,
+      "records_with_pdf": 3
+    },
+    {
+      "label": "Luna 17",
+      "candidate_records": 4,
+      "records_with_pdf": 0
+    },
+    {
+      "label": "Luna 21",
+      "candidate_records": 2,
+      "records_with_pdf": 0
+    },
+    {
+      "label": "Mars 7",
+      "candidate_records": 2,
+      "records_with_pdf": 0
+    },
+    {
+      "label": "Lavochkin",
+      "candidate_records": 1,
+      "records_with_pdf": 1
+    },
+    {
+      "label": "Phobos 1",
+      "candidate_records": 1,
+      "records_with_pdf": 1
+    }
+  ],
+  "relevance": "UNREVIEWED",
+  "notes": [
+    "Labels indicate mentions, not confirmed main subjects.",
+    "Search queries are not used for classification.",
+    "Labels overlap and their counts must not be summed.",
+    "No match does not mean irrelevant.",
+    "Numbered names may still be ambiguous in context.",
+    "Rules are limited to the explicitly listed names."
+  ]
+}

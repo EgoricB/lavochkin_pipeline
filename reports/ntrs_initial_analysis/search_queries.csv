@@ -1,0 +1,21 @@
+﻿query,candidate_records,records_with_pdf,records_without_pdf
+Phobos,544,229,315
+Venera,363,155,208
+"""Mars 2""",144,95,49
+"""Luna 16""",135,16,119
+"""Luna 24""",76,8,68
+"""Luna 20""",71,8,63
+"""Vega 1""",69,14,55
+"""Mars 3""",57,32,25
+"""Vega 2""",43,14,29
+Lunokhod,31,14,17
+"""Mars 4""",22,12,10
+"""Luna 10""",20,17,3
+"""Mars 5""",20,13,7
+"""Mars 6""",19,9,10
+"""Luna 9""",12,6,6
+"""Mars 7""",10,2,8
+Lavochkin,5,5,0
+"""Luna 13""",4,3,1
+"""Luna 17""",4,0,4
+"""Luna 21""",2,0,2

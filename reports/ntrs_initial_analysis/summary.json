@@ -1,0 +1,14 @@
+{
+  "pdf_files": 606,
+  "total_bytes": 4299956099,
+  "total_pages": 24637,
+  "extracted_text_chars": 51985925,
+  "exact_duplicate_files": 0,
+  "statuses": {
+    "no_extractable_text": 1,
+    "text_extracted": 604,
+    "text_extraction_errors": 1
+  },
+  "relevance": "UNREVIEWED",
+  "mission_year_filtering": false
+}
