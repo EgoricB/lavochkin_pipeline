@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lavochkin_pipeline"
+version = "0.1.0"
+description = "Reproducible document processing with an experimental ML scheduler"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["lavochkin_pipeline*"]
