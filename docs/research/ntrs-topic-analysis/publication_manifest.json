@@ -1,0 +1,37 @@
+{
+  "report_version": "1.0",
+  "report_date": "2026-10-16",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "8f0a1feb5c31b859f71fa2c6d8946d3b81456bd61991f7d8f316d2279960e728"
+    },
+    {
+      "path": "artifacts/representative_topics.csv",
+      "sha256": "9bc04ca6c7c2bb06767b4f38a8f3f043335a45d66ab7fefc9ee7d6912be1515c"
+    },
+    {
+      "path": "artifacts/representative_examples.csv",
+      "sha256": "d1461f20ceabc84f392814d189a28802a604dcf74c61ee6be6cc88de2f871b9e"
+    },
+    {
+      "path": "artifacts/representative_record_profiles.csv",
+      "sha256": "8c6a3bef92a7041c9e1adaea2aa5a60877bc9cb00bf96696ccba7ba14b044cdd"
+    },
+    {
+      "path": "tables/topic_summary.csv",
+      "sha256": "fd79bd1fc5f3c6fd518740956f93ef47797f5914af24752db80818f9707c1c61"
+    },
+    {
+      "path": "tables/record_profiles_k10.csv",
+      "sha256": "84fdb2cf434647cba11a760a08a10f0f9628b90e6e727852e257aae7ca05ec8c"
+    }
+  ],
+  "validation": {
+    "k10_records": 593,
+    "normalized_profiles": true,
+    "leading_counts_match_topic_table": true,
+    "mean_weights_match_topic_table": true
+  },
+  "note": "Report includes user-supplied experiment summaries; raw local experiment manifests are captured by the installer when present."
+}

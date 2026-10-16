@@ -1,0 +1,44 @@
+{
+  "input_sha256": "e4b58fb76892a592bdf6a8778895caa7b6a07ee76508be845165d1f500dab119",
+  "script_sha256": "73e800732907248d1783bff4781b7420eee35627b1ed8e1241b858f946c7bd33",
+  "duplicate_normalization": "Unicode NFKC, casefold, collapse whitespace",
+  "summary": {
+    "records": 604,
+    "with_title": 604,
+    "with_abstract": 593,
+    "with_title_and_abstract": 593,
+    "with_title_abstract_and_fulltext": 592,
+    "without_abstract": [
+      "19730023947",
+      "19930092773",
+      "20210000414",
+      "20210024520",
+      "20220000481",
+      "20230017239",
+      "20240000427",
+      "20240000503",
+      "20240000791",
+      "20240007988",
+      "20250000307"
+    ],
+    "nonempty_abstract_word_counts": {
+      "count": 593,
+      "min": 3,
+      "median": 154,
+      "max": 1332
+    },
+    "abstracts_with_1_to_19_words": 62,
+    "duplicate_groups": {
+      "title": 16,
+      "abstract": 5,
+      "title_and_abstract": 2
+    }
+  },
+  "limitations": [
+    "Nonempty abstracts are not validated for content quality.",
+    "Normalized exact matches are not proven duplicate publications.",
+    "Short abstracts are counted, not excluded.",
+    "No language identification is performed.",
+    "Audit covers the existing 604-record research corpus."
+  ]
+}

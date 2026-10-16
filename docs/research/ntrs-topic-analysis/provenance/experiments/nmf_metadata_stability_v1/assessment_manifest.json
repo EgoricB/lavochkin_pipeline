@@ -1,0 +1,320 @@
+{
+  "experiment_sha256": "62bc3a80b84bee99720f3a5a73804bb63404acc84519948ce039bc6518c11662",
+  "input_factor_files": [
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed00\\factors.npz",
+      "sha256": "b746b7031ab2bbdddfa26a4650730064d8472ee5b4e80f3666bb71252085928d",
+      "metrics_sha256": "ae0f56c1423b7f911db21fc6c62b30972cd06c9ebb2c2da7128eabca12996eff"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed01\\factors.npz",
+      "sha256": "da3d1a4272af181763fd09b1f83a053478efbfce3970fedc298c1470b67153f7",
+      "metrics_sha256": "b4b3e523bff874a367d7d2eb57ced13f3447c713e7b305784e8deb33f4462988"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed02\\factors.npz",
+      "sha256": "9b1f39f766c89fe78434bc6002281727dafab2eecf01662447895774ed3c54b5",
+      "metrics_sha256": "5d34da1a0de14ccccdce0512c56a941e79e2fdfab051c079a411f9197d1a884e"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed03\\factors.npz",
+      "sha256": "e8105a8209e8009e558b85ce3bc4c629c1a42649f11e9ae3b7c316a5794aec9d",
+      "metrics_sha256": "bdfd42c72923f922ec51ddbbdb159e8c7940088debc260a83e5218843121bbea"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed04\\factors.npz",
+      "sha256": "590e1f486caf7033d352f66f0750716f537f4b27ca3e43e67bda5e897ae1e177",
+      "metrics_sha256": "643f2ddafb08bc9a75df52805a6ac0c609b653ca521d95cf488bc33384728c18"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed05\\factors.npz",
+      "sha256": "6f19c704e780b2a1e588518f368ddadbf61332b36da439178ad814dab3b10521",
+      "metrics_sha256": "fdc0ee2e0f2e31a9b2d11c8ffc0bf01266e83bebf958481d6cb165555f70d6e6"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed06\\factors.npz",
+      "sha256": "e0673f893daede7def04802d95040df86ecb7d3c29cb0b23a43cfeca11463631",
+      "metrics_sha256": "dd9416c48528cb462955781313ab6e09ce9a803044d016dee0aae5e74dddc534"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed07\\factors.npz",
+      "sha256": "d7d2311897cd4ba7fe59fbaa3aa5ff296bb1ef7ca5d8eff84b81fe506257032e",
+      "metrics_sha256": "ec5c6b37092d05beec1467c10091abda15de84dcea9f6c6722de0014f7dafd58"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed08\\factors.npz",
+      "sha256": "0fe2425ce9d3e51589e90dba69438038aeae291437c4b329fec1dc1005b07769",
+      "metrics_sha256": "8e57343a606d3f986d8abb75cbc90c76e7f99ff3e28e591996d8927baf2ead9e"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k05_seed09\\factors.npz",
+      "sha256": "ff7d781cd9fa65301a046cbbf48f1bfe6819f8083b937bec86ee9b151dd24cce",
+      "metrics_sha256": "602ba011b64a6337985fd4f76055cec64f418584fadd775b56e65a61bd591312"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed00\\factors.npz",
+      "sha256": "4a69fe1cf7bc929d5401cb5a3aa83f517d80e1d3c8ade523161d517fade11bed",
+      "metrics_sha256": "f314d58f2d896897157976bc00146e65292676cc910d27110aacd3f98fbbe39f"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed01\\factors.npz",
+      "sha256": "a06e4f9684b4a35e64a08b27eb4a0d310e99dd6d7f1488c6592e3458a9ed4e8d",
+      "metrics_sha256": "6a4f312b96b73620d355bed205324840fa6105bca22aababd60712167ea7c9be"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed02\\factors.npz",
+      "sha256": "234af3b1c81d01adabd7cd80a195e880b82db70a0f46b0f647687994140c9370",
+      "metrics_sha256": "a87f24f2248f2a1a4ab140ce33665ab1fea543926eb8276c9ec9631381c6b38c"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed03\\factors.npz",
+      "sha256": "0013f12fa96e1aecfee7a63d3a8ace63d01b1941f74dc8112b3c76aaf2c61ca8",
+      "metrics_sha256": "115e6c8ff9b4702e3a781c1f0c8a0bacbec37e4cb61fd3e3e376bc398c9f0431"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed04\\factors.npz",
+      "sha256": "3d0291271efd9e3e431030ded5cd623ee11ffc70cfec8d3804ea0b5dcdd6a2a5",
+      "metrics_sha256": "887f7306988c73cf6e9b92295fbcad4106bf8088bcf6c91ab8c6dae04df12f38"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed05\\factors.npz",
+      "sha256": "24c9603e8da9021bfc546e9cc4ab091575352677ae8b9e85a2e89b8d072490f2",
+      "metrics_sha256": "f9747345a038aabee6c9fcc1925bdb6e19bd696497e1bbffde42f24b2fd3fb92"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed06\\factors.npz",
+      "sha256": "d8bffdf156b8618f47de5e21808b9ed1df2f901fce39641a739a40df212a7765",
+      "metrics_sha256": "82e1cf15ad7b4fd459fa6c28647636dd27ece09f0ccff56bd5da956b2e6126fd"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed07\\factors.npz",
+      "sha256": "45088eb2fdcfe6cc66f813d5885aef970cc7ff5b23c8537250bdcf717baaa67d",
+      "metrics_sha256": "6f96671955688bf13b9b4cbcd3fc1217c1994079da4c94e5439d8b457b38a414"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed08\\factors.npz",
+      "sha256": "4624c75459c93342acfd1e48d22beacce6ff5d9e0f0b2a4d1ddccce9c2fa0ff1",
+      "metrics_sha256": "545861106a7e465e09992a93798441b5336bdefa78027c11c6f23b75cbd87a9f"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k10_seed09\\factors.npz",
+      "sha256": "3e4545e57c3a03e05df9f4a7219d54a0556e89775c447b1b276ebceda346d269",
+      "metrics_sha256": "618952c95e3b2cf1dd5aadfae3f72b74257384cef5d9a9a24becde4b67433b35"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed00\\factors.npz",
+      "sha256": "59e8060abf2a49a5709e74077514765ec5fe458f70e1776551089ed1ac27a66e",
+      "metrics_sha256": "566d28879683baffeb4babb636060e6655807b3eb895f0ea6f4c335fefb824d7"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed01\\factors.npz",
+      "sha256": "4ccac77b696a1bf6b17d6021ca47072b839f6cf137596940c4a8e48ff7e13670",
+      "metrics_sha256": "bb2e2b1a9e6672ce7b2d818461cfefa8ada22b17600241e85a4d86918a81798d"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed02\\factors.npz",
+      "sha256": "1dfb0f4167dfb8262dbe1e3861732b0373512f26e807a51e582f25a004432b24",
+      "metrics_sha256": "731dfe2a2d928b45587b28c8992646c35f21c62acd3e762b8dfbb82042938b54"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed03\\factors.npz",
+      "sha256": "8f56c5c9ebb8978c4f4a840eab96b3183d1342f0dc0921c3fde3ea096db91453",
+      "metrics_sha256": "52cd08712186547b899529d9104d26c18ab2f9cf8be74a78c39a16b440a40f5c"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed04\\factors.npz",
+      "sha256": "a43b6e7d988f8a565deb44d098610f2e14085a55c87c2de80d08e2bfa8d78e95",
+      "metrics_sha256": "744703a241c252178ae8ac2cdb9bb3a75f3029f039bffa2b4fe2ace36c293e78"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed05\\factors.npz",
+      "sha256": "45528208981339cc8ebece80025ee26f5e50938c06a8c50548c43e07eb9eec12",
+      "metrics_sha256": "08ea0878c098b78df49cea5ddd90bcc4573f02dcbdab86e1eb97ff84c3e11f5a"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed06\\factors.npz",
+      "sha256": "60ef6aadcde48abad635b7dff2bbcaf639bf5f7b9ec4ad9d7b15b74d54534d33",
+      "metrics_sha256": "97fcfc078391090eab9c2b27102e6cce7bc371fece666e02421894ac3de3b833"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed07\\factors.npz",
+      "sha256": "7a7563b93f65a7979bf5fc6e10708cafb4bf5f8406b44a1bcf1f427af30326cd",
+      "metrics_sha256": "5ba6742ef43079687fd91b6bedbc80ed7d845204dc82ff0c46adce0866595e18"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed08\\factors.npz",
+      "sha256": "8dc72dab5471b66ebf05c3aaf1728a009447bd57fa9cea46a9d7b9669511c9eb",
+      "metrics_sha256": "d92ca7821d8959f7ec82c2de664d8eee7ea695775e07b323f69601212e397a2b"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k15_seed09\\factors.npz",
+      "sha256": "e26d55fb846d50364753219598c4b2ec15acdcbf35f5cf0f83468d2e3784c6c7",
+      "metrics_sha256": "f99694b8ea0ad1b2c726a3ae808a14afa897a8902f8c64eb2c57206716bac397"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed00\\factors.npz",
+      "sha256": "e89ca9d238f5b7579dfc8f13e78bfadcb945c2192805f0129752ad4a419cae55",
+      "metrics_sha256": "159332cbad027a825a1e520240cdfbcf75a1c1659f2de237bae3afcc9aae1bc8"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed01\\factors.npz",
+      "sha256": "3e36ae0705985f60a19997958f681f28dae64487ee1b6daea2f38453a800a5ce",
+      "metrics_sha256": "fd08eca75abbc39c5d0cb3c0a72b25077c519e4ae4a23056cc7ed435aca0ca13"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed02\\factors.npz",
+      "sha256": "611ed8261b0be820b1919fb2d5c4f8514593aa4102315ad65a1fe18a9447667a",
+      "metrics_sha256": "7335136f7ad53e3d8443f364e916c11970ed688a72b03373dd04189cb22d9a1c"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed03\\factors.npz",
+      "sha256": "5098d0a1b570c5194c1ab6d4f4d0eb0099a13e27a04dad905afa0503d8197436",
+      "metrics_sha256": "62b770539a7baee9a1e3e3197965b14a3c51290ff528e0a42cb84c7413458c0f"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed04\\factors.npz",
+      "sha256": "8934251d92163e8ef247fbf6a906d65a14c0a03eaf12809bf94fef1825ce6792",
+      "metrics_sha256": "05f4f3085efbecdb147298b60049096dfe2db02ee7eded1b86f770c06c01f500"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed05\\factors.npz",
+      "sha256": "e13dd37d1832f97407fd69dc3145fd16b5043e8be58ba607638a0b9c078f977a",
+      "metrics_sha256": "a35b2c7a103bf079751878abc6d2a3a5ee7e167a72cd58617a7f1d75487e2ee9"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed06\\factors.npz",
+      "sha256": "407e7db125b74630675ef5756e492c47bf32f7ffecb2fc5942b02b41ac81988f",
+      "metrics_sha256": "8cf5300bd271adb3660f8f87530f5bbbfb067369db82f57d50f2d20aeef2b80f"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed07\\factors.npz",
+      "sha256": "d3b582bf63ed7627110fdec9dd1e77a2ed85531036d354592844108f92f1542c",
+      "metrics_sha256": "5a9bd56bfcdf6af7e14ae6032929b628db6372134a3258343c5b3434785bbe88"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed08\\factors.npz",
+      "sha256": "7bf02ca037a75152cecd0fdb4e8a97df167e0662a657b338a7a2ae45847f8bee",
+      "metrics_sha256": "210cc05b132fcbb9c5abdde2281b7ef357dc72166414cffcd9576e49ad9bd2f6"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k20_seed09\\factors.npz",
+      "sha256": "7901492e69eaa009ee21be1014fece787accbc8d7ae33bbd39fd0c86f181844b",
+      "metrics_sha256": "41319bb3ceebaa860e21873098b0b4925b3850efb5d6b85847dd25d27caed4a8"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed00\\factors.npz",
+      "sha256": "a545d7485d94c10a2594422668c0b70565073edbf10e2a42fc7390de58b41729",
+      "metrics_sha256": "8ccc2cc23847fca1b7e9ca42da052e9ebbff5393740582ede4f69a93c2d08d70"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed01\\factors.npz",
+      "sha256": "59d85aa771dcf16ee7c962ed41af39f94cca335eded515b8e7e027e1f6058cec",
+      "metrics_sha256": "663bca52d0155cccbae28bc89a075cffd6b08f32fd08ca87b5c81a9f2f0dc898"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed02\\factors.npz",
+      "sha256": "e2a420eaca8adbf78c60c3adf3187f9a271a9deab8d6ec6af51c12dcfb011d06",
+      "metrics_sha256": "8a58a740b4334fd46bd57887ea503c9e8b9c70fdf522162dea02dcf59ad6e495"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed03\\factors.npz",
+      "sha256": "361753e896f5f30f92997f1eef13f1b6276cba6d83f3bf4b8cd3b2198e8ea7bc",
+      "metrics_sha256": "c41a578d94688bc4f54c389198d50cc550aa801be1793e1ac3843875d84f7421"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed04\\factors.npz",
+      "sha256": "d18c676a1369b171af8e46c8c0a9ed774d7a94a589a0d6ed98915cb40dd4c534",
+      "metrics_sha256": "757be3e195ac46528251d4fd8d24312f9199940726f6693490c7414e761bc677"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed05\\factors.npz",
+      "sha256": "b587bdfccb1a5d859091017de6ffa6bacfb3ec3abc7b5dd45892c4d5a07cb8d1",
+      "metrics_sha256": "a82de7b2bc10d88321e16d31faf0a0571cc59bbd0fdf5d830bddcd1da5ede23d"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed06\\factors.npz",
+      "sha256": "07f58b9c360d3454561bb5ea767f87620445b1ce101269c356023d36bc3178fd",
+      "metrics_sha256": "46f031d5aeea1083256cc2fd4ab15763f860b0bb03b28fd0156e26b43c01c7d4"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed07\\factors.npz",
+      "sha256": "0dcadddb6ddbd3cda680b4ee84e4b2c6ebeaf24c2b6fc57c1ae0018f1e6df873",
+      "metrics_sha256": "314b62c9a35e61920d730539cdd27b30f2208c780aaec0d8940625bfef90d43e"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed08\\factors.npz",
+      "sha256": "c70628a40f08edfa8f864e3b0a5d757bf05da99179a3bb44e2bde147e86b5b08",
+      "metrics_sha256": "9f54285189a47ac1bf05572674a69002db61f13deeb556fcfc9e8a8fb14448ed"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k25_seed09\\factors.npz",
+      "sha256": "6f2991b6a3151c49ea7bdd793c0bc1b801db2ade295402a900d2e750c5335694",
+      "metrics_sha256": "7512026efa793340e75f5442d50f15a01c0568c85ccc0e44cfd096014cf4210e"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed00\\factors.npz",
+      "sha256": "ae24bc100bb79a49e68e6378a02ff254592c8e9367eeaf9ece18731578a97dc2",
+      "metrics_sha256": "27c349aadeb0b64b90e0264e8d515580b2aa3cce6f6cac93e5340ef98cb8afc8"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed01\\factors.npz",
+      "sha256": "97c4a4e927d63c3c8dc607bf3f4f7a4d69fd22140053bb8cc88412c78d420cba",
+      "metrics_sha256": "ec5e4a0de2451093682d26ad833dfff0f9399b39c7a08e07112eae981f17815c"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed02\\factors.npz",
+      "sha256": "f84436b7cb991e3153b7ebc244d393e354ef2e8850981a5f1359fff48b975807",
+      "metrics_sha256": "23e395f2e0ec43e6245bdb6e808c8be9f751da1ca699f8a084682387376a2a0a"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed03\\factors.npz",
+      "sha256": "82cf4cb320304dec549f36e88c8a7496764b72de573c1d1b7c1df204267082f7",
+      "metrics_sha256": "b5115d6887c5a9e34d77c63f2177ecbdbf185c06ac09ccf82d756ab9359f17f8"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed04\\factors.npz",
+      "sha256": "e285ccf2e84fa2b923647b427cab71aee50125226b4cbf9721e110a8ad90868c",
+      "metrics_sha256": "3741bda355238d1442073e0f3dbfeb4dbeac2ed2547c6d053fe7567221c32d73"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed05\\factors.npz",
+      "sha256": "bac95e1566bfb150dddd3ef042d89dee22bcbae363ed3357bdc1f94caebe28e0",
+      "metrics_sha256": "d3a85c48e77adc765acb61ca15f162e5e284f98600185d9143a6397818bc57bb"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed06\\factors.npz",
+      "sha256": "dc2928b736c59f968d205d7fbd9ff79c72568c6286cd762db0ba8ed120becce1",
+      "metrics_sha256": "c0e373f14360627dba95e741490fb65569e62dbe1b5bcefe3cc9540e495a2377"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed07\\factors.npz",
+      "sha256": "c9fe01e2e5b2bc54b8f4867c7d7af616bcaa5b1e7117cd4902a4effc7c006962",
+      "metrics_sha256": "706d2577d46757f2b9d96c028b00c988d1d414c88422dbbbfed4ec1c290bef5a"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed08\\factors.npz",
+      "sha256": "6afbd505cb1853a89c40f903d06177e62ca7d285b313ed23d6795e8e6ccbbe56",
+      "metrics_sha256": "8d31f2999975ac87cf3462eca9ec445b04c7a55e7fae48210113b2ff74b6009b"
+    },
+    {
+      "path": "data\\ntrs\\research\\nmf_metadata_v1\\k30_seed09\\factors.npz",
+      "sha256": "18eb26c99de5ce6bfd558982f57f5480a2570642b0e468ed23f35ee1a8130dac",
+      "metrics_sha256": "a67cb0a82499b5851ac73d9d61ec26c83ec13bdfd398ceae4fc8b51f92b2b9b7"
+    }
+  ],
+  "method": {
+    "topic_similarity": "cosine over full term vectors",
+    "matching": "maximum-sum one-to-one assignment",
+    "representative": "seed with highest mean pairwise matched cosine; ties resolved by lowest seed",
+    "top_term_overlap": "intersection size divided by 20",
+    "examples": "highest relative document topic weight"
+  },
+  "limitations": [
+    "Only initialization stability is measured.",
+    "No resampling or preprocessing sensitivity is measured.",
+    "Representative selection can favor a dominant solution family.",
+    "Stability is not semantic correctness.",
+    "Example ranks are not validated relevance scores.",
+    "No topic count is automatically selected."
+  ]
+}

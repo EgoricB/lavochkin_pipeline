@@ -1,0 +1,99 @@
+{
+  "created_at_utc": "2026-10-16T14:54:23.958151+00:00",
+  "copied": [
+    {
+      "source": "audit_research_metadata.py",
+      "snapshot": "scripts\\audit_research_metadata.py",
+      "sha256": "73e800732907248d1783bff4781b7420eee35627b1ed8e1241b858f946c7bd33"
+    },
+    {
+      "source": "prepare_metadata_corpus.py",
+      "snapshot": "scripts\\prepare_metadata_corpus.py",
+      "sha256": "3ddeaed59e5915c9865fc0d80342a173cf8db1a61133331ca857f84c7e805857"
+    },
+    {
+      "source": "build_metadata_features.py",
+      "snapshot": "scripts\\build_metadata_features.py",
+      "sha256": "ccbac432b5339976945cb176ca67c607db0b77d26f8f12897ff0c72c93c1d5fa"
+    },
+    {
+      "source": "run_metadata_nmf.py",
+      "snapshot": "scripts\\run_metadata_nmf.py",
+      "sha256": "d5c14262cd54e252bd3782879628b5138e12fd2fea94b3150a5182824dd97f3f"
+    },
+    {
+      "source": "assess_metadata_stability.py",
+      "snapshot": "scripts\\assess_metadata_stability.py",
+      "sha256": "79a9634575f2d0974496cdc0092b70803c983f4d21c805f4a0881733f7c0fe18"
+    },
+    {
+      "source": "check_metadata_sensitivity.py",
+      "snapshot": "scripts\\check_metadata_sensitivity.py",
+      "sha256": "8ac973bfb239d0a14d660612d5a55860bef25b81e36c278129b26d4eafbdad73"
+    },
+    {
+      "source": "data\\ntrs\\research\\metadata_corpus_v1\\manifest.json",
+      "snapshot": "experiments\\metadata_corpus_v1\\manifest.json",
+      "sha256": "67a8ce0adecdaef1d4f6bbc8a468f7a45314e1ff9ecd2f55f8bb36cc7a6c9483"
+    },
+    {
+      "source": "data\\ntrs\\research\\metadata_audit_v1\\audit_manifest.json",
+      "snapshot": "experiments\\metadata_audit_v1\\audit_manifest.json",
+      "sha256": "6bfd1e7e8028d681487dbe0749ab5a0f151224cb017bf7d263edcb8ea1cf63a4"
+    },
+    {
+      "source": "data\\ntrs\\research\\metadata_audit_v1\\exact_duplicate_groups.csv",
+      "snapshot": "experiments\\metadata_audit_v1\\exact_duplicate_groups.csv",
+      "sha256": "9b4e4fc4d4e4a8d01bbe1b3b0a555dc543a9d6a8ceb07f183a982510aababd74"
+    },
+    {
+      "source": "data\\ntrs\\research\\features_metadata_v1\\feature_manifest.json",
+      "snapshot": "experiments\\features_metadata_v1\\feature_manifest.json",
+      "sha256": "10c56741134f620a8f62cffd15a001ca03db39b62b229b0e56ad7d403e332272"
+    },
+    {
+      "source": "data\\ntrs\\research\\features_metadata_v1\\stopwords.json",
+      "snapshot": "experiments\\features_metadata_v1\\stopwords.json",
+      "sha256": "626da1fe5a5f6a90006a901163d103f0614c2bcc79c95fc0d8b4224eb1e1980e"
+    },
+    {
+      "source": "data\\ntrs\\research\\nmf_metadata_v1\\experiment.json",
+      "snapshot": "experiments\\nmf_metadata_v1\\experiment.json",
+      "sha256": "62bc3a80b84bee99720f3a5a73804bb63404acc84519948ce039bc6518c11662"
+    },
+    {
+      "source": "data\\ntrs\\research\\nmf_metadata_v1\\run_summary.json",
+      "snapshot": "experiments\\nmf_metadata_v1\\run_summary.json",
+      "sha256": "4122f9827d8aa4ddab21172a890529afeb88350d1b61f660c1f7b319796974b8"
+    },
+    {
+      "source": "data\\ntrs\\research\\nmf_metadata_stability_v1\\stability_summary.csv",
+      "snapshot": "experiments\\nmf_metadata_stability_v1\\stability_summary.csv",
+      "sha256": "96298b3abbacd2147b97bd2f7dc1f3a6d44ca489c4d42aa237a81d099f42f81a"
+    },
+    {
+      "source": "data\\ntrs\\research\\nmf_metadata_stability_v1\\assessment_manifest.json",
+      "snapshot": "experiments\\nmf_metadata_stability_v1\\assessment_manifest.json",
+      "sha256": "04dc662eebb00196ff8e56664feb7a2343e1b08592cd1830f21919bdc7ae132b"
+    },
+    {
+      "source": "data\\ntrs\\research\\metadata_sensitivity_v1\\manifest.json",
+      "snapshot": "experiments\\metadata_sensitivity_v1\\manifest.json",
+      "sha256": "7ced19dee5b4873d2822721e81c20098cfe0bebdb5b7e1692eea9fc829ce09f4"
+    },
+    {
+      "source": "data\\ntrs\\research\\metadata_sensitivity_v1\\run_metrics.csv",
+      "snapshot": "experiments\\metadata_sensitivity_v1\\run_metrics.csv",
+      "sha256": "4361e093f8416ed60c5d78fabd0ff7fbe14561e8c0e21cd44c6abbae2649378a"
+    },
+    {
+      "source": "data\\ntrs\\research\\metadata_sensitivity_v1\\topic_changes.csv",
+      "snapshot": "experiments\\metadata_sensitivity_v1\\topic_changes.csv",
+      "sha256": "e83659db016b38fd20909e46d06afa7b07528689848ae064e37642565319fa5c"
+    }
+  ],
+  "missing": [
+    "data\\ntrs\\research\\features_metadata_v1\\environment.txt"
+  ],
+  "note": "Local snapshots; execution provenance is not independently verified."
+}

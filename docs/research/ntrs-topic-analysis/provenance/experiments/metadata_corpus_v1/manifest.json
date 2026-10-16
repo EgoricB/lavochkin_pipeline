@@ -1,0 +1,14 @@
+{
+  "parent_documents_sha256": "e4b58fb76892a592bdf6a8778895caa7b6a07ee76508be845165d1f500dab119",
+  "output_documents_sha256": "e690535782d17f4106a60b49f3dc7e1f42d67b84873f31b964c9e38cf3a94bfc",
+  "script_sha256": "3ddeaed59e5915c9865fc0d80342a173cf8db1a61133331ca857f84c7e805857",
+  "representation": "title once + abstract once",
+  "short_abstracts_excluded": false,
+  "duplicate_groups_removed": false,
+  "summary": {
+    "input_records": 604,
+    "metadata_records": 593,
+    "excluded_records": 11,
+    "common_with_fulltext": 592
+  }
+}

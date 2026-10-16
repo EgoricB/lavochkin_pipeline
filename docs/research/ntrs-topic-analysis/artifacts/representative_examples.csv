@@ -1,0 +1,526 @@
+﻿k,representative_seed,topic,rank,ntrs_id,title,relative_topic_weight,word_tokens
+5,2,0,1,19690018495,Mutual perturbations of Mars' satellites,1.0,14
+5,2,0,2,19870008302,The effect of Mars surface and Phobos propellant production on Earth launch mass,1.0,126
+5,2,0,3,19900017473,The lessons of Varsovian's reconnaissance,1.0,213
+5,2,0,4,19940011914,A mission concept of Phobos/Deimos exploration,1.0,72
+5,2,0,5,19940020711,"New Technologies for Space Avionics, 1993",1.0,84
+5,2,1,1,19660022599,Highlights of the press conference at the Moscow House of Scientists on 10 February 1966,1.0,26
+5,2,1,2,19660022601,Soviet press communiques and the Pravda editorial on ''Luna-9'' soft landing on the moon,1.0,26
+5,2,1,3,19670002405,Luna-10 transmits photographs,1.0,12
+5,2,1,4,19670002825,Stratified and faceted shapes on panoramas obtained from the station Luna-9,1.0,22
+5,2,1,5,19670002879,Study of the soft corpuscular radiation on the AMS ''Luna-10'',1.0,18
+5,2,2,1,19900020097,"Data catalog series for space science and applications flight missions. Volume 5A: Descriptions of astronomy, astrophysics, and solar physics spacecraft and investigations. Volume 5B: Descriptions of data sets from astronomy, astrophysics, and solar physics spacecraft and investigations",1.0,144
+5,2,2,2,19900020098,Data Catalog Series for Space Science and Applications Flight Missions: Descriptions of Data Sets from Geostationary and High-Altitude Scientific Spacecraft and Investigations - Volume 2B,1.0,133
+5,2,2,3,19900020099,"Data catalog series for space science and applications flight missions. Volume 1A: Descriptions of planetary and heliocentric spacecraft and investigations, second edition",1.0,126
+5,2,2,4,19900020100,Data catalog series for space science and applications flight missions. Volume 6: Master index volume,1.0,111
+5,2,2,5,19900020807,Data catalog series for space science and applications flight missions. Volume 4B: Descriptions of data sets from meteorological and terrestrial applications spacecraft and investigations,1.0,131
+5,2,3,1,19680010658,Determination of chemical composition of the atmosphere of Venus by the interplanetary station ''Venera-4'',1.0,24
+5,2,3,2,19680026127,Sudy of the Propagation of Decimeter Radiowaves in the Atmosphere of Venus with the Aid of AIS ''venera 4'',1.0,31
+5,2,3,3,19690006195,Sixth start to Venus,1.0,10
+5,2,3,4,19690022196,Atmospheric turbulence on Venus - Evidence for severe microwave signal fading from Venera 4,1.0,24
+5,2,3,5,19690022784,On light refraction in the atmosphere of Venus,1.0,20
+5,2,4,1,20220000501,Exploring the Jezero Crater Floor: Overview of Results from the Mars 2020 Perseverance Rover’s First Science Campaign,1.0,339
+5,2,4,2,20220002150,Collecting Samples from the Máaz Formation of Jezero Crater with the Mars 2020 Perseverance Rover,1.0,175
+5,2,4,3,20220012767,"An olivine cumulate outcrop on the floor of Jezero crater, Mars",1.0,137
+5,2,4,4,20230000534,Overview of the Bedrock Geochemistry and Mineralogy Observed By Supercam During Perseverance’S Delta Front Campaign,1.0,175
+5,2,4,5,20230000557,Stratigraphic Relationships of the Western Delta and Crater Floor in Jezero Crater From Rimfax Gpr Observations.,1.0,109
+10,7,0,1,20220003125,The Gateway as a Building Block for Space Exploration and Development,0.9734002524479385,274
+10,7,0,2,19940020711,"New Technologies for Space Avionics, 1993",0.9733516159200304,84
+10,7,0,3,20220013482,The Gateway as a Building Block for Space Exploration and Development,0.9730074854499683,275
+10,7,0,4,19890007335,Exploration Studies Technical Report - Volume 1: Technical Summary,0.9520805955504739,147
+10,7,0,5,20160007482,Memetic Engineering as a Basis for Learning in Robotic Communities,0.9501085627906815,189
+10,7,1,1,20220012767,"An olivine cumulate outcrop on the floor of Jezero crater, Mars",1.0,137
+10,7,1,2,20230000557,Stratigraphic Relationships of the Western Delta and Crater Floor in Jezero Crater From Rimfax Gpr Observations.,1.0,109
+10,7,1,3,20240000797,"What Are the Olivine-Rich Boulders in the Upper Fan and Margin Unit at Jezero Crater, Mars?",1.0,159
+10,7,1,4,20250000309,Igneous Compositions in the Rim of Jezero Crater Using Supercam Data,1.0,182
+10,7,1,5,20250000304,Strategic Approach and First Results From the Jezero Crater Rim Campaign,0.9841507796959261,120
+10,7,2,1,19680010658,Determination of chemical composition of the atmosphere of Venus by the interplanetary station ''Venera-4'',1.0,24
+10,7,2,2,19680026127,Sudy of the Propagation of Decimeter Radiowaves in the Atmosphere of Venus with the Aid of AIS ''venera 4'',1.0,31
+10,7,2,3,19690006195,Sixth start to Venus,1.0,10
+10,7,2,4,19690022784,On light refraction in the atmosphere of Venus,1.0,20
+10,7,2,5,19710008490,Study of the dynamic of the Venus atmosphere using the automatic interplanetary stations Venera-5 and Venera-6,0.9973372512202047,26
+10,7,3,1,19900020098,Data Catalog Series for Space Science and Applications Flight Missions: Descriptions of Data Sets from Geostationary and High-Altitude Scientific Spacecraft and Investigations - Volume 2B,1.0,133
+10,7,3,2,19900020099,"Data catalog series for space science and applications flight missions. Volume 1A: Descriptions of planetary and heliocentric spacecraft and investigations, second edition",1.0,126
+10,7,3,3,19900020100,Data catalog series for space science and applications flight missions. Volume 6: Master index volume,1.0,111
+10,7,3,4,19900020807,Data catalog series for space science and applications flight missions. Volume 4B: Descriptions of data sets from meteorological and terrestrial applications spacecraft and investigations,1.0,131
+10,7,3,5,19900020824,Data catalog series for space science and applications flight missions. Volume 3B: Descriptions of data sets from low- and medium-altitude scientific spacecraft and investigations,1.0,133
+10,7,4,1,19670002910,Scientific results of processing of panoramas obtained from photographs of the lunar surface taken from ''Luna-9'',1.0,25
+10,7,4,2,19670002405,Luna-10 transmits photographs,0.9769505210281051,12
+10,7,4,3,19670002825,Stratified and faceted shapes on panoramas obtained from the station Luna-9,0.9664981187359268,22
+10,7,4,4,19660022599,Highlights of the press conference at the Moscow House of Scientists on 10 February 1966,0.9508128291570483,26
+10,7,4,5,19660022601,Soviet press communiques and the Pravda editorial on ''Luna-9'' soft landing on the moon,0.9382195278063591,26
+10,7,5,1,20210010554,PNEUMATIC  SAMPLER  (P-SAMPLER)  FOR  THE  MARTIAN  MOONS  EXPLORATION (MMX),1.0,99
+10,7,5,2,20210011308,Pneumatic Sampler (P-SAMPLER) for the Martian Moons Exploration (MMX),1.0,60
+10,7,5,3,20230000373,Curation protocol of Phobos sample returned by the Martian Moon Exploration (MMX),0.9371280773481173,81
+10,7,5,4,20210013273,Pneumatic Sampler (P-Sampler) for the Martian Moons Exploration (MMX),0.9187765502763113,243
+10,7,5,5,20210010765,Eccentricity and Inclination Reduction Following Capture of Martian Moons,0.9032309084888238,46
+10,7,6,1,20030014643,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.9992925492815452,543
+10,7,6,2,19990019002,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.9987217309293999,544
+10,7,6,3,20160006327,Mars Hybrid Propulsion System Trajectory Analysis: Cargo Missions - Part II,0.9965610297760698,254
+10,7,6,4,20160010553,The Effects of Reducing the Structural Mass of the Transit Habitat on the Cryogenic Propellant Required for a Human Phobos Mission,0.9795721663339025,159
+10,7,6,5,20150013809,The Effects of Reducing the Structural Mass of the Transit Habitat on the Cryogenic Propellant Required for a Human Phobos Mission,0.9793884914640261,158
+10,7,7,1,19780005041,The magnetic field of Mars estimated from the data of plasma measurements by Soviet artificial satellites of Mars,0.9282064769652971,99
+10,7,7,2,19760018039,On the nature of the solar-wind-Mars interaction,0.8750708412373345,59
+10,7,7,3,19880001361,Overview of plasma observations during the Halley flybys,0.872774444800266,57
+10,7,7,4,19760018037,"Solar-wind interaction with the planets Mercury, Venus, and Mars",0.8559775438771822,27
+10,7,7,5,19730004180,The magnetic field in the very close neighborhood of Mars according to data from the Mars 2 and Mars 3 spacecraft,0.7795541736515721,82
+10,7,8,1,20080041007,"Formation and Evolution of Lakshmi Planum (V-7), Venus: Assessment of Models using Observations from Geological Mapping",0.969400614678879,268
+10,7,8,2,19930005201,Structural characteristics and tectonics of northeastern Tellus Regio and Meni Tessera,0.9650983209009667,158
+10,7,8,3,20110002765,Comparison of Mapping Tessera Terrain in the Phoebe Regio (V-41) and Tellus Tessera (V-10) Quadrangles,0.9612587862675979,171
+10,7,8,4,19920001527,Interpretation of the northern boundary of Ishtar Terra from Magellan images and altimetry,0.9584723748371047,205
+10,7,8,5,19930005131,Determining stress states using dike swarms: The Lauma Dorsa example,0.9575025707800634,349
+10,7,9,1,20210024709,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,1.0,343
+10,7,9,2,20210024804,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,1.0,343
+10,7,9,3,20220007618,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9960364723959062,258
+10,7,9,4,20220009242,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9960364723959062,258
+10,7,9,5,20230006697,Exploring the Accuracy of RANS Simulations for Mars Entry Vehicles,0.820172856429221,187
+15,0,0,1,20150004598,Robotic Missions to Small Bodies and Their Potential Contributions to Human Exploration and Planetary Defense,0.9383616052249715,478
+15,0,0,2,20140012976,The Asteroid Impact and Deflection Assessment Mission and its Potential Contributions to Human Exploration of Asteroids,0.9317935910721641,280
+15,0,0,3,19780021064,Asteroids: An Exploration Assessment,0.915916889542146,28
+15,0,0,4,20140017143,Robotic Reconnaissance Missions to Small Bodies and Their Potential Contributions to Human Exploration,0.8858512709557783,659
+15,0,0,5,20130011261,Precursor Asteroid Missions and Synergies to Human Exploration of Phobos and Deimos,0.8798830253109295,195
+15,0,1,1,19900020099,"Data catalog series for space science and applications flight missions. Volume 1A: Descriptions of planetary and heliocentric spacecraft and investigations, second edition",1.0,126
+15,0,1,2,19900020807,Data catalog series for space science and applications flight missions. Volume 4B: Descriptions of data sets from meteorological and terrestrial applications spacecraft and investigations,1.0,131
+15,0,1,3,19900020832,Data catalog series for space science and applications flight missions. Volume 1B: Descriptions of data sets from planetary and heliocentric spacecraft and investigations,1.0,127
+15,0,1,4,19900020824,Data catalog series for space science and applications flight missions. Volume 3B: Descriptions of data sets from low- and medium-altitude scientific spacecraft and investigations,0.9994339104343076,133
+15,0,1,5,19900020098,Data Catalog Series for Space Science and Applications Flight Missions: Descriptions of Data Sets from Geostationary and High-Altitude Scientific Spacecraft and Investigations - Volume 2B,0.9968272858490382,133
+15,0,2,1,20250000309,Igneous Compositions in the Rim of Jezero Crater Using Supercam Data,1.0,182
+15,0,2,2,20240000797,"What Are the Olivine-Rich Boulders in the Upper Fan and Margin Unit at Jezero Crater, Mars?",0.9953556114462864,159
+15,0,2,3,20230000534,Overview of the Bedrock Geochemistry and Mineralogy Observed By Supercam During Perseverance’S Delta Front Campaign,0.9774667858044743,175
+15,0,2,4,20250000304,Strategic Approach and First Results From the Jezero Crater Rim Campaign,0.9593253617398512,120
+15,0,2,5,20230000557,Stratigraphic Relationships of the Western Delta and Crater Floor in Jezero Crater From Rimfax Gpr Observations.,0.9435064969409624,109
+15,0,3,1,20210024709,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,1.0,343
+15,0,3,2,20210024804,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,1.0,343
+15,0,3,3,20220007618,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9963919586234457,258
+15,0,3,4,20220009242,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9963919586234457,258
+15,0,3,5,20230006697,Exploring the Accuracy of RANS Simulations for Mars Entry Vehicles,0.8088940040587689,187
+15,0,4,1,19790020954,A flaring X-ray pulsar in Dorado,1.0,45
+15,0,4,2,19790012800,Preliminary results of a gamma-ray burst study in the Konus experiment on the Venera-11 and Venera-12 space probes,0.9833853545495566,90
+15,0,4,3,19950017126,Statistical properties of the time histories of cosmic gamma-ray bursts detected by the BATSE experiment of the Compton gamma-ray observatory,0.9823208260525665,101
+15,0,4,4,19850026433,Two types of electron events in solar flares,0.9670267676453361,141
+15,0,4,5,19890003158,"Collaborative analysis of solar maximum mission, Venera and Prognoz solar X-ray bursts",0.9371572851893902,71
+15,0,5,1,20160006327,Mars Hybrid Propulsion System Trajectory Analysis: Cargo Missions - Part II,0.9959107905206306,254
+15,0,5,2,20030014643,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.9860649937327106,543
+15,0,5,3,19990019002,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.9858024369153883,544
+15,0,5,4,20160006328,Mars Hybrid Propulsion System Trajectory Analysis: Crew Missions - Part I,0.9713453869532795,204
+15,0,5,5,20150013809,The Effects of Reducing the Structural Mass of the Transit Habitat on the Cryogenic Propellant Required for a Human Phobos Mission,0.9344939893207201,158
+15,0,6,1,19780005041,The magnetic field of Mars estimated from the data of plasma measurements by Soviet artificial satellites of Mars,0.8033743292648583,99
+15,0,6,2,19760018037,"Solar-wind interaction with the planets Mercury, Venus, and Mars",0.7940843041007027,27
+15,0,6,3,19670002918,Measurements of the magnetic field in the vicinity of the moon on the AMS Luna-10,0.7496623915016134,24
+15,0,6,4,19670009630,Investigation of the magnetic field from the AMS Luna-10,0.7313451546303279,22
+15,0,6,5,19730004180,The magnetic field in the very close neighborhood of Mars according to data from the Mars 2 and Mars 3 spacecraft,0.680915417008355,82
+15,0,7,1,20160001864,Thermal Emission Observation of Phobos: Compositional Interpretations,0.8491151710040353,10
+15,0,7,2,20170012400,Metal Sulfides and their Relation to Atmospheric Sulfur on Venus,0.8241880152719337,13
+15,0,7,3,20160005069,Developing A Carbonaceous Chondrite Based Simulant of Phobos,0.8087853948481692,11
+15,0,7,4,20170012403,"Microphysical Modelling of Venus Clouds, Including Radiative Transfer",0.7930013859217164,11
+15,0,7,5,20170012390,Multispectral Day and Night Cloud Morphology of Venus from Akatsuki Cameras,0.7806665240116739,14
+15,0,8,1,20050176026,"Characterization of a Subsurface Biosphere in a Massive Sulfide Deposits at Rio Tinto, Spain: Implications for Extant Life on Mars",1.0,243
+15,0,8,2,20050185076,"Characterization of a Subsurface Biosphere in a Massive Sulfide Deposit At Rio Tinto, Spain: Implications For Extant Life On Mars",1.0,243
+15,0,8,3,20250011160,What Are CI1-Like Lithologies in Non-CI Meteorites? The Case of Kaidun,0.9795405218742517,385
+15,0,8,4,20250009390,What Are the CI1-Like Lithologies in Non-CI Meteorites? The Case of Kaidun,0.9660011980828307,374
+15,0,8,5,20100009794,Titanium Mass-balance Analysis of Paso Robles Soils: Elemental Gains and Losses as Affected by Acid Alteration Fluids,0.965967407850773,240
+15,0,9,1,19680026127,Sudy of the Propagation of Decimeter Radiowaves in the Atmosphere of Venus with the Aid of AIS ''venera 4'',1.0,31
+15,0,9,2,19690022784,On light refraction in the atmosphere of Venus,1.0,20
+15,0,9,3,19710008490,Study of the dynamic of the Venus atmosphere using the automatic interplanetary stations Venera-5 and Venera-6,0.9912967329509967,26
+15,0,9,4,19690022196,Atmospheric turbulence on Venus - Evidence for severe microwave signal fading from Venera 4,0.9203252255011538,24
+15,0,9,5,19690006195,Sixth start to Venus,0.9177076465694107,10
+15,0,10,1,19670002405,Luna-10 transmits photographs,0.9628671564555096,12
+15,0,10,2,19670002825,Stratified and faceted shapes on panoramas obtained from the station Luna-9,0.9467123937425123,22
+15,0,10,3,19670002910,Scientific results of processing of panoramas obtained from photographs of the lunar surface taken from ''Luna-9'',0.9078221467278557,25
+15,0,10,4,19660022601,Soviet press communiques and the Pravda editorial on ''Luna-9'' soft landing on the moon,0.8727166015308032,26
+15,0,10,5,19660022599,Highlights of the press conference at the Moscow House of Scientists on 10 February 1966,0.8628130706950351,26
+15,0,11,1,19930005201,Structural characteristics and tectonics of northeastern Tellus Regio and Meni Tessera,0.9961286340572629,158
+15,0,11,2,19920001524,Morphology and evolution of coronae and ovoids on Venus,0.9877793849191875,144
+15,0,11,3,19930005103,Ringed impact craters on Venus: An analysis from Magellan images,0.9875099497650686,71
+15,0,11,4,19940011789,Tessera terrain on Venus: Global characterization from Magellan data,0.9869906970189555,168
+15,0,11,5,19900003117,"Evidence for volcanism in NW Ishtar Terra, Venus",0.9794559745723134,270
+15,0,12,1,19890006474,"Exploration Studies Technical Report - Volume 3: Special Reports, Studies, and Indepth Systems Assessments",1.0,170
+15,0,12,2,19890007335,Exploration Studies Technical Report - Volume 1: Technical Summary,1.0,147
+15,0,12,3,19890007336,Exploration Studies Technical Report - Volume 2: Studies Approach and Results,0.9754728101286937,229
+15,0,12,4,19940030460,Physics of Forced Unsteady Separation,0.9372329091156801,77
+15,0,12,5,20010020461,Concepts and Approaches for Mars Exploration,0.917654576899764,52
+15,0,13,1,19690018495,Mutual perturbations of Mars' satellites,0.9992056890096463,14
+15,0,13,2,19870005709,Phobos and Deimos: Satellites of Mars,0.9777615521719901,54
+15,0,13,3,20160003505,Neutron Spectroscopy Can Constrain the Composition and Provenance of Phobos and Deimos,0.9056742672079521,137
+15,0,13,4,19940011874,"A simultaneous estimation of the mass of Mars and its natural satellites, Phobos and Deimos, from the orbital perturbations on the Mariner 9, Viking 1, and Viking 2 orbiters",0.9039022178261555,147
+15,0,13,5,20160004034,Neutron Spectroscopy Can Constrain the Composition and Provenance of Phobos and Deimos,0.8990320950149286,142
+15,0,14,1,20210011308,Pneumatic Sampler (P-SAMPLER) for the Martian Moons Exploration (MMX),1.0,60
+15,0,14,2,20210010554,PNEUMATIC  SAMPLER  (P-SAMPLER)  FOR  THE  MARTIAN  MOONS  EXPLORATION (MMX),0.9942742978271039,99
+15,0,14,3,20230000373,Curation protocol of Phobos sample returned by the Martian Moon Exploration (MMX),0.957158919581119,81
+15,0,14,4,20210013273,Pneumatic Sampler (P-Sampler) for the Martian Moons Exploration (MMX),0.9321124591531496,243
+15,0,14,5,20260003948,Contamination Control and Assessment Strategy for Martian Moons Exploration (MMX),0.9237178740801515,124
+20,9,0,1,20150004598,Robotic Missions to Small Bodies and Their Potential Contributions to Human Exploration and Planetary Defense,0.9956329044312446,478
+20,9,0,2,20140012976,The Asteroid Impact and Deflection Assessment Mission and its Potential Contributions to Human Exploration of Asteroids,0.9892702499437173,280
+20,9,0,3,20140017143,Robotic Reconnaissance Missions to Small Bodies and Their Potential Contributions to Human Exploration,0.9593484577072758,659
+20,9,0,4,20130011261,Precursor Asteroid Missions and Synergies to Human Exploration of Phobos and Deimos,0.9132150169570594,195
+20,9,0,5,20120018073,"Missions to Near-Earth Asteroids: Implications for Exploration, Science, Resource Utilization, and Planetary Defense",0.8429365899342843,527
+20,9,1,1,19900020832,Data catalog series for space science and applications flight missions. Volume 1B: Descriptions of data sets from planetary and heliocentric spacecraft and investigations,1.0,127
+20,9,1,2,19900020099,"Data catalog series for space science and applications flight missions. Volume 1A: Descriptions of planetary and heliocentric spacecraft and investigations, second edition",0.9996627729049247,126
+20,9,1,3,19900020807,Data catalog series for space science and applications flight missions. Volume 4B: Descriptions of data sets from meteorological and terrestrial applications spacecraft and investigations,0.9945450726543942,131
+20,9,1,4,19900020824,Data catalog series for space science and applications flight missions. Volume 3B: Descriptions of data sets from low- and medium-altitude scientific spacecraft and investigations,0.9914861024571631,133
+20,9,1,5,19900020098,Data Catalog Series for Space Science and Applications Flight Missions: Descriptions of Data Sets from Geostationary and High-Altitude Scientific Spacecraft and Investigations - Volume 2B,0.9889255860421526,133
+20,9,2,1,19890003992,Optical properties of cometary grains,0.9988562601872091,225
+20,9,2,2,19930010046,Evolution of near UV Halley's spectrum in the inner coma,0.9979538217753046,100
+20,9,2,3,19890003967,The 3.4 micrometer emission feature in Comet Halley,0.9735197593581434,108
+20,9,2,4,19890003981,Detection of parent molecules in the IR spectrum of P/Halley with the IKS-Vega spectrometer,0.9621907170088835,125
+20,9,2,5,19890003971,Possible identifications of the 3.4 micrometer feature,0.8751421205829549,184
+20,9,3,1,20230007646,Nephele: An Entry Probe & Sonde Concept for a Venus Ride-Along or Small Spacecraft Mission,1.0,106
+20,9,3,2,20230011762,AERACEPT (Aerosol Rapid Analysis Combined Entry Probe/sonde Technology): Enabling Technology for Missions to the Venus Clouds,0.9681038151502109,341
+20,9,3,3,20230007297,Heating and Sampling Efficiency Evaluation for the Nephele Venus Cloud Sampling Mission Concept,0.9317734219182472,236
+20,9,3,4,20240012697,AERACEPT (AErosol Rapid Analysis Combined Entry Probe/sonde Technology) for the Nephele Venus Cloud Mission Concept,0.866198921967767,359
+20,9,3,5,20250002069,Cloud Particle Capture Modeling and Validation Testing for A Venus Descent Probe,0.6371138842263278,204
+20,9,4,1,20160003505,Neutron Spectroscopy Can Constrain the Composition and Provenance of Phobos and Deimos,0.9874838536314957,137
+20,9,4,2,20160004034,Neutron Spectroscopy Can Constrain the Composition and Provenance of Phobos and Deimos,0.9764205660298435,142
+20,9,4,3,20120003093,Oxygen Isotope Compositions of the Kaidun Meteorite - Indications for Aqeuous Alteration of E-Chondrites,0.9713607797312472,185
+20,9,4,4,20250011160,What Are CI1-Like Lithologies in Non-CI Meteorites? The Case of Kaidun,0.9407154632487843,385
+20,9,4,5,20250009390,What Are the CI1-Like Lithologies in Non-CI Meteorites? The Case of Kaidun,0.9394116717815757,374
+20,9,5,1,19690018495,Mutual perturbations of Mars' satellites,1.0,14
+20,9,5,2,19940011874,"A simultaneous estimation of the mass of Mars and its natural satellites, Phobos and Deimos, from the orbital perturbations on the Mariner 9, Viking 1, and Viking 2 orbiters",0.9706089632624253,147
+20,9,5,3,19870005709,Phobos and Deimos: Satellites of Mars,0.922937393792348,54
+20,9,5,4,19750019915,Accuracy of estimating the masses of Phobos and Deimos from multiple Viking orbiter encounters,0.8685502296547637,107
+20,9,5,5,19720020227,"A study of system requirements for Phobos/Deimos missions.  Volume 2:  Phase 1 results, satellite rendezvous and landing missions",0.7894395388032404,49
+20,9,6,1,20160006327,Mars Hybrid Propulsion System Trajectory Analysis: Cargo Missions - Part II,0.9933430886197875,254
+20,9,6,2,20160006328,Mars Hybrid Propulsion System Trajectory Analysis: Crew Missions - Part I,0.9485407391415057,204
+20,9,6,3,20030014643,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.942748932001881,543
+20,9,6,4,19990019002,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.9408854537763301,544
+20,9,6,5,20150013809,The Effects of Reducing the Structural Mass of the Transit Habitat on the Cryogenic Propellant Required for a Human Phobos Mission,0.9065785116164193,158
+20,9,7,1,19790020954,A flaring X-ray pulsar in Dorado,0.9802463246122385,45
+20,9,7,2,19790012800,Preliminary results of a gamma-ray burst study in the Konus experiment on the Venera-11 and Venera-12 space probes,0.9679661843019403,90
+20,9,7,3,19950017126,Statistical properties of the time histories of cosmic gamma-ray bursts detected by the BATSE experiment of the Compton gamma-ray observatory,0.9535773775505004,101
+20,9,7,4,19850025599,A second catalog of gamma ray bursts:  1978 - 1980 localizations from the interplanetary network,0.8763906804866826,113
+20,9,7,5,19890003158,"Collaborative analysis of solar maximum mission, Venera and Prognoz solar X-ray bursts",0.8513998702089189,71
+20,9,8,1,20170012403,"Microphysical Modelling of Venus Clouds, Including Radiative Transfer",0.7745356972985242,11
+20,9,8,2,20170012400,Metal Sulfides and their Relation to Atmospheric Sulfur on Venus,0.7589624538417545,13
+20,9,8,3,20170012402,Large Stationary Gravity Waves: A Game Changer for Venus' Science,0.7398508210961227,13
+20,9,8,4,20170012390,Multispectral Day and Night Cloud Morphology of Venus from Akatsuki Cameras,0.7210382485306904,14
+20,9,8,5,20160005069,Developing A Carbonaceous Chondrite Based Simulant of Phobos,0.620019074178913,11
+20,9,9,1,20230000534,Overview of the Bedrock Geochemistry and Mineralogy Observed By Supercam During Perseverance’S Delta Front Campaign,0.9765723977622387,175
+20,9,9,2,20240000797,"What Are the Olivine-Rich Boulders in the Upper Fan and Margin Unit at Jezero Crater, Mars?",0.9536945701246935,159
+20,9,9,3,20250000309,Igneous Compositions in the Rim of Jezero Crater Using Supercam Data,0.9421357865175523,182
+20,9,9,4,20250000304,Strategic Approach and First Results From the Jezero Crater Rim Campaign,0.9348596704948572,120
+20,9,9,5,20230000557,Stratigraphic Relationships of the Western Delta and Crater Floor in Jezero Crater From Rimfax Gpr Observations.,0.933136093190221,109
+20,9,10,1,19930005201,Structural characteristics and tectonics of northeastern Tellus Regio and Meni Tessera,0.9929215634928757,158
+20,9,10,2,19920001524,Morphology and evolution of coronae and ovoids on Venus,0.989227457410569,144
+20,9,10,3,19900003117,"Evidence for volcanism in NW Ishtar Terra, Venus",0.9742399665348558,270
+20,9,10,4,19940011789,Tessera terrain on Venus: Global characterization from Magellan data,0.9522266789093431,168
+20,9,10,5,19900003110,Tessera terrain: Characteristics and models of origin,0.9344213568824741,180
+20,9,11,1,20220013482,The Gateway as a Building Block for Space Exploration and Development,0.9928733012612789,275
+20,9,11,2,20220003125,The Gateway as a Building Block for Space Exploration and Development,0.9927299876580828,274
+20,9,11,3,19940020711,"New Technologies for Space Avionics, 1993",0.9300503947459166,84
+20,9,11,4,20100040646,Extravehicular Activity (EVA) Technology Development Status and Forecast,0.9291072136213405,397
+20,9,11,5,20110012989,Extravehicular Activity Technology Development Status and Forecast,0.9188212056840623,375
+20,9,12,1,19680026127,Sudy of the Propagation of Decimeter Radiowaves in the Atmosphere of Venus with the Aid of AIS ''venera 4'',1.0,31
+20,9,12,2,19710008490,Study of the dynamic of the Venus atmosphere using the automatic interplanetary stations Venera-5 and Venera-6,0.9491755378528183,26
+20,9,12,3,19680015573,The atmosphere of Venus - A conference review,0.9255665727235896,21
+20,9,12,4,19680011874,Model atmosphere of planet Venus according to the results of measurements on the Soviet automatic interplanetary station Venera-4,0.9130773474178998,30
+20,9,12,5,19690022784,On light refraction in the atmosphere of Venus,0.9014941618403675,20
+20,9,13,1,20210010554,PNEUMATIC  SAMPLER  (P-SAMPLER)  FOR  THE  MARTIAN  MOONS  EXPLORATION (MMX),1.0,99
+20,9,13,2,20210011308,Pneumatic Sampler (P-SAMPLER) for the Martian Moons Exploration (MMX),1.0,60
+20,9,13,3,20230000373,Curation protocol of Phobos sample returned by the Martian Moon Exploration (MMX),0.9565190985851486,81
+20,9,13,4,20210013273,Pneumatic Sampler (P-Sampler) for the Martian Moons Exploration (MMX),0.8696499727823788,243
+20,9,13,5,20260003948,Contamination Control and Assessment Strategy for Martian Moons Exploration (MMX),0.8623589634534679,124
+20,9,14,1,19670002825,Stratified and faceted shapes on panoramas obtained from the station Luna-9,0.8552665349420442,22
+20,9,14,2,19660022601,Soviet press communiques and the Pravda editorial on ''Luna-9'' soft landing on the moon,0.8029244513714265,26
+20,9,14,3,19660022599,Highlights of the press conference at the Moscow House of Scientists on 10 February 1966,0.7831846718754376,26
+20,9,14,4,19670002879,Study of the soft corpuscular radiation on the AMS ''Luna-10'',0.7752705437352662,18
+20,9,14,5,19670002405,Luna-10 transmits photographs,0.7695231563762979,12
+20,9,15,1,19720017235,Apollo 14:  Some geochemical aspects,1.0,124
+20,9,15,2,20080013254,Sm-Nd and Rb-Sr Isotopic Studies of Meteorite Kalahari 009: An Old VLT Mare Basalt,0.9428966654910229,267
+20,9,15,3,20130003170,"The Violent Early Solar System, as Told by Lunar Sample Geochronology",0.9034479118077726,321
+20,9,15,4,20130013949,"The Violent Early Solar System, as Told by Sample Geochronology",0.9020689480297446,320
+20,9,15,5,19720026173,Evidence on the composition and mineralogy of the lunar highlands,0.9007085231934044,74
+20,9,16,1,19670002918,Measurements of the magnetic field in the vicinity of the moon on the AMS Luna-10,0.7951290106000234,24
+20,9,16,2,19760018037,"Solar-wind interaction with the planets Mercury, Venus, and Mars",0.7845553001945598,27
+20,9,16,3,19780005041,The magnetic field of Mars estimated from the data of plasma measurements by Soviet artificial satellites of Mars,0.7627623170711091,99
+20,9,16,4,19670009630,Investigation of the magnetic field from the AMS Luna-10,0.7602019834242105,22
+20,9,16,5,19670019546,Possible interpretation of the results of measurements on the near-lunar satellite ''AMS Luna-10'',0.682666664073929,28
+20,9,17,1,20050176026,"Characterization of a Subsurface Biosphere in a Massive Sulfide Deposits at Rio Tinto, Spain: Implications for Extant Life on Mars",1.0,243
+20,9,17,2,20050185076,"Characterization of a Subsurface Biosphere in a Massive Sulfide Deposit At Rio Tinto, Spain: Implications For Extant Life On Mars",1.0,243
+20,9,17,3,20050176003,Contribution of Organic Material to the Stable Isotope Composition of Some Terrestrial Carbonates as Analogs for Martian Processes,0.9933067600747444,213
+20,9,17,4,20050166970,"Searching for Life Underground: An Analysis of Remote Sensing Observations of a Drill Core from Rio Tinto, Spain for Mineralogical Indications of Biological Activity",0.9834208629235432,199
+20,9,17,5,20130011104,Experimental Evidence for Weathering and Martian Sulfate Formation Under Extremely Cold Weather-Limited Environments,0.9456823482400417,275
+20,9,18,1,20210024709,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,0.9951565557729538,343
+20,9,18,2,20210024804,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,0.9951565557729538,343
+20,9,18,3,20220007618,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9903581594824613,258
+20,9,18,4,20220009242,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9903581594824613,258
+20,9,18,5,20230006697,Exploring the Accuracy of RANS Simulations for Mars Entry Vehicles,0.7166747091691277,187
+20,9,19,1,19890007335,Exploration Studies Technical Report - Volume 1: Technical Summary,1.0,147
+20,9,19,2,19890006474,"Exploration Studies Technical Report - Volume 3: Special Reports, Studies, and Indepth Systems Assessments",0.9996501046541919,170
+20,9,19,3,19890007336,Exploration Studies Technical Report - Volume 2: Studies Approach and Results,0.9957304348543152,229
+20,9,19,4,19890013614,Human exploration mission studies,0.4706272385735285,243
+20,9,19,5,20030057823,On-Orbit Assembly Task Definition Study,0.4270245664746578,314
+25,5,0,1,20200001602,Strategic Implications of Phobos as a Staging Point for Mars Surface Missions,1.0,226
+25,5,0,2,20205011538,Strategic Implications of Phobos as a Staging Point for Mars Surface Missions,1.0,222
+25,5,0,3,20120009026,Alternative Strategies for Exploring Mars and the Moons of Mars,0.8980090121691499,269
+25,5,0,4,20150021032,Phobos Mobility Simulation,0.45705567910211964,129
+25,5,0,5,20160009226,Mars Surface Operations via Low-Latency Telerobotics from Phobos,0.36617902469538666,65
+25,5,1,1,20210011308,Pneumatic Sampler (P-SAMPLER) for the Martian Moons Exploration (MMX),1.0,60
+25,5,1,2,20210010554,PNEUMATIC  SAMPLER  (P-SAMPLER)  FOR  THE  MARTIAN  MOONS  EXPLORATION (MMX),0.9990342376058565,99
+25,5,1,3,20230000373,Curation protocol of Phobos sample returned by the Martian Moon Exploration (MMX),0.9565899635160636,81
+25,5,1,4,20210013273,Pneumatic Sampler (P-Sampler) for the Martian Moons Exploration (MMX),0.8384260129960189,243
+25,5,1,5,20210022478,Pneumatic Sampler (P-Sampler) for the Martian Moons Exploration (MMX),0.8156780891299112,218
+25,5,2,1,19930005201,Structural characteristics and tectonics of northeastern Tellus Regio and Meni Tessera,0.9886138679844712,158
+25,5,2,2,19920001524,Morphology and evolution of coronae and ovoids on Venus,0.973735127410079,144
+25,5,2,3,19900003110,Tessera terrain: Characteristics and models of origin,0.961078082495157,180
+25,5,2,4,20110002765,Comparison of Mapping Tessera Terrain in the Phoebe Regio (V-41) and Tellus Tessera (V-10) Quadrangles,0.934070016781723,171
+25,5,2,5,19900003109,"Characteristics, distribution and geologic/terrain associations of small dome-like hills on Venus",0.8949024656102926,83
+25,5,3,1,19900020832,Data catalog series for space science and applications flight missions. Volume 1B: Descriptions of data sets from planetary and heliocentric spacecraft and investigations,0.9978522652128975,127
+25,5,3,2,19900020099,"Data catalog series for space science and applications flight missions. Volume 1A: Descriptions of planetary and heliocentric spacecraft and investigations, second edition",0.9973129781359094,126
+25,5,3,3,19900020807,Data catalog series for space science and applications flight missions. Volume 4B: Descriptions of data sets from meteorological and terrestrial applications spacecraft and investigations,0.9935005885188362,131
+25,5,3,4,19900020824,Data catalog series for space science and applications flight missions. Volume 3B: Descriptions of data sets from low- and medium-altitude scientific spacecraft and investigations,0.9872293759294555,133
+25,5,3,5,19900020098,Data Catalog Series for Space Science and Applications Flight Missions: Descriptions of Data Sets from Geostationary and High-Altitude Scientific Spacecraft and Investigations - Volume 2B,0.9821341159861292,133
+25,5,4,1,20230000534,Overview of the Bedrock Geochemistry and Mineralogy Observed By Supercam During Perseverance’S Delta Front Campaign,0.9761691762655903,175
+25,5,4,2,20240000797,"What Are the Olivine-Rich Boulders in the Upper Fan and Margin Unit at Jezero Crater, Mars?",0.9463424531845154,159
+25,5,4,3,20250000309,Igneous Compositions in the Rim of Jezero Crater Using Supercam Data,0.9281305036523716,182
+25,5,4,4,20230000582,"Sedimentology and Stratigraphy of the Lower Delta Sequence, Jezero Crater, Mars.",0.9060369681356687,115
+25,5,4,5,20230000557,Stratigraphic Relationships of the Western Delta and Crater Floor in Jezero Crater From Rimfax Gpr Observations.,0.8844209079260124,109
+25,5,5,1,19930005103,Ringed impact craters on Venus: An analysis from Magellan images,0.7660788349177673,71
+25,5,5,2,20130013949,"The Violent Early Solar System, as Told by Sample Geochronology",0.7137402349745919,320
+25,5,5,3,19940016163,Twenty-Fourth Lunar and Planetary Science Conference. Part 3: N-Z,0.7132849307621928,78
+25,5,5,4,20130003170,"The Violent Early Solar System, as Told by Lunar Sample Geochronology",0.711424709245004,321
+25,5,5,5,19940023803,Some implications of large impact craters and basins on Venus for terrestrial ringed craters and planetary evolution,0.6960838858714482,137
+25,5,6,1,20210024709,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,0.9955810883430682,343
+25,5,6,2,20210024804,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,0.9955810883430682,343
+25,5,6,3,20220007618,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9889538570016355,258
+25,5,6,4,20220009242,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9889538570016355,258
+25,5,6,5,20230006697,Exploring the Accuracy of RANS Simulations for Mars Entry Vehicles,0.6677240290470379,187
+25,5,7,1,19720017235,Apollo 14:  Some geochemical aspects,0.997451678102385,124
+25,5,7,2,19720026173,Evidence on the composition and mineralogy of the lunar highlands,0.8947974314836155,74
+25,5,7,3,19720007196,Soil mechanics results of Luna 16 and Lunokhod 1:  A preliminary report,0.8628518638297787,87
+25,5,7,4,19720019064,"Bulk, rare earth and other trace elements in Apollo 14 and 15 and Luna 16 samples",0.8344829555186567,173
+25,5,7,5,19740014355,Electron Microprobe Analyses of Lithic Fragments and Their Minerals from Luna 20 Fines,0.8163216220887459,204
+25,5,8,1,19790020954,A flaring X-ray pulsar in Dorado,0.9774990478185036,45
+25,5,8,2,19790012800,Preliminary results of a gamma-ray burst study in the Konus experiment on the Venera-11 and Venera-12 space probes,0.9575799780120064,90
+25,5,8,3,19950017126,Statistical properties of the time histories of cosmic gamma-ray bursts detected by the BATSE experiment of the Compton gamma-ray observatory,0.9137857392494478,101
+25,5,8,4,19850025599,A second catalog of gamma ray bursts:  1978 - 1980 localizations from the interplanetary network,0.8461959880878474,113
+25,5,8,5,19890003158,"Collaborative analysis of solar maximum mission, Venera and Prognoz solar X-ray bursts",0.7552986022651726,71
+25,5,9,1,20220013482,The Gateway as a Building Block for Space Exploration and Development,0.9754575913454473,275
+25,5,9,2,20220003125,The Gateway as a Building Block for Space Exploration and Development,0.9746874630222789,274
+25,5,9,3,20100040646,Extravehicular Activity (EVA) Technology Development Status and Forecast,0.9388183953930148,397
+25,5,9,4,20110012989,Extravehicular Activity Technology Development Status and Forecast,0.9264930305173174,375
+25,5,9,5,19940020711,"New Technologies for Space Avionics, 1993",0.9196360481211019,84
+25,5,10,1,19890007335,Exploration Studies Technical Report - Volume 1: Technical Summary,1.0,147
+25,5,10,2,19890006474,"Exploration Studies Technical Report - Volume 3: Special Reports, Studies, and Indepth Systems Assessments",0.999514644561021,170
+25,5,10,3,19890007336,Exploration Studies Technical Report - Volume 2: Studies Approach and Results,0.9830093897240367,229
+25,5,10,4,19890013614,Human exploration mission studies,0.4586609488600117,243
+25,5,10,5,20030057823,On-Orbit Assembly Task Definition Study,0.40840195975560784,314
+25,5,11,1,20120003093,Oxygen Isotope Compositions of the Kaidun Meteorite - Indications for Aqeuous Alteration of E-Chondrites,0.9657442228402392,185
+25,5,11,2,20250009390,What Are the CI1-Like Lithologies in Non-CI Meteorites? The Case of Kaidun,0.9587527935014842,374
+25,5,11,3,20250011160,What Are CI1-Like Lithologies in Non-CI Meteorites? The Case of Kaidun,0.9586334925762527,385
+25,5,11,4,20160003505,Neutron Spectroscopy Can Constrain the Composition and Provenance of Phobos and Deimos,0.9532925865004336,137
+25,5,11,5,20160004034,Neutron Spectroscopy Can Constrain the Composition and Provenance of Phobos and Deimos,0.9426071676325192,142
+25,5,12,1,20050176003,Contribution of Organic Material to the Stable Isotope Composition of Some Terrestrial Carbonates as Analogs for Martian Processes,1.0,213
+25,5,12,2,20130011104,Experimental Evidence for Weathering and Martian Sulfate Formation Under Extremely Cold Weather-Limited Environments,0.8834406758859101,275
+25,5,12,3,20205008498,The Search for Chiral Asymmetry as a Potential Biosignature in Samples from Mars,0.8701112299547246,488
+25,5,12,4,20080026353,Isotope Variations in Terrestrial Carbonates and Thermal Springs as Biomarkers: Analogs for Martian Processes,0.833088559591257,239
+25,5,12,5,20210026481,The Search for Chiral Asymmetry as a Potential Biosignature in Samples from Mars,0.8315681458145716,574
+25,5,13,1,19690018495,Mutual perturbations of Mars' satellites,0.9980930446833213,14
+25,5,13,2,19940011874,"A simultaneous estimation of the mass of Mars and its natural satellites, Phobos and Deimos, from the orbital perturbations on the Mariner 9, Viking 1, and Viking 2 orbiters",0.9259150786760354,147
+25,5,13,3,19870005709,Phobos and Deimos: Satellites of Mars,0.8706195017983626,54
+25,5,13,4,19750019915,Accuracy of estimating the masses of Phobos and Deimos from multiple Viking orbiter encounters,0.7529781648742846,107
+25,5,13,5,19720020227,"A study of system requirements for Phobos/Deimos missions.  Volume 2:  Phase 1 results, satellite rendezvous and landing missions",0.7304184471268393,49
+25,5,14,1,19670002825,Stratified and faceted shapes on panoramas obtained from the station Luna-9,0.8000683642697642,22
+25,5,14,2,19670002405,Luna-10 transmits photographs,0.7663355939975525,12
+25,5,14,3,19680006236,Investigation of X-radiation of the moon by means of the lunar satellite ''Luna-10'',0.7492961946084667,22
+25,5,14,4,19660022601,Soviet press communiques and the Pravda editorial on ''Luna-9'' soft landing on the moon,0.7342773152331882,26
+25,5,14,5,19660022599,Highlights of the press conference at the Moscow House of Scientists on 10 February 1966,0.7185026244951355,26
+25,5,15,1,19890003992,Optical properties of cometary grains,0.9734233071168871,225
+25,5,15,2,19930010046,Evolution of near UV Halley's spectrum in the inner coma,0.9731273327027052,100
+25,5,15,3,19890003981,Detection of parent molecules in the IR spectrum of P/Halley with the IKS-Vega spectrometer,0.9578143074080915,125
+25,5,15,4,19890003967,The 3.4 micrometer emission feature in Comet Halley,0.9322967513371352,108
+25,5,15,5,19890003971,Possible identifications of the 3.4 micrometer feature,0.8551251936343167,184
+25,5,16,1,20240010947,The Active Volcanoes of Kamchatka as Suitable Terrestrial Analogs Within the AVENGERS Initiative: An Opportunity for In-Situ Operational Tests for Future Landing Venus Missions,1.0,504
+25,5,16,2,20240001813,Active Volcanoes of Kamchatka as Suitable Terrestrial Analogs for Future Landing Missions and for Change Detection Analysis on Venus,0.9951346317160965,486
+25,5,16,3,20220013011,Idunn Mons as the landing site of the Venera-D mission: scientific relevance and possible operational tests on Mount Etna.,0.9679308615039804,155
+25,5,16,4,20220016076,Geologically Recent Areas as One Key Target for Identifying Active Volcanism on Venus,0.9423879548552584,175
+25,5,16,5,20220007556,Future Orbiting and In-Situ Exploration of Venus: Mount Etna as Terrestrial Analog,0.7329889553619792,211
+25,5,17,1,19680026127,Sudy of the Propagation of Decimeter Radiowaves in the Atmosphere of Venus with the Aid of AIS ''venera 4'',1.0,31
+25,5,17,2,19710008490,Study of the dynamic of the Venus atmosphere using the automatic interplanetary stations Venera-5 and Venera-6,0.9513067253787082,26
+25,5,17,3,19690022784,On light refraction in the atmosphere of Venus,0.8731533477791893,20
+25,5,17,4,19680011874,Model atmosphere of planet Venus according to the results of measurements on the Soviet automatic interplanetary station Venera-4,0.8399193280514718,30
+25,5,17,5,19680015573,The atmosphere of Venus - A conference review,0.8205746708045091,21
+25,5,18,1,19670002918,Measurements of the magnetic field in the vicinity of the moon on the AMS Luna-10,0.795938192793759,24
+25,5,18,2,19670009630,Investigation of the magnetic field from the AMS Luna-10,0.7594564680249101,22
+25,5,18,3,19780005041,The magnetic field of Mars estimated from the data of plasma measurements by Soviet artificial satellites of Mars,0.736014307320817,99
+25,5,18,4,19760018037,"Solar-wind interaction with the planets Mercury, Venus, and Mars",0.7233184621817162,27
+25,5,18,5,19670019546,Possible interpretation of the results of measurements on the near-lunar satellite ''AMS Luna-10'',0.6800746180848801,28
+25,5,19,1,20050176026,"Characterization of a Subsurface Biosphere in a Massive Sulfide Deposits at Rio Tinto, Spain: Implications for Extant Life on Mars",1.0,243
+25,5,19,2,20050185076,"Characterization of a Subsurface Biosphere in a Massive Sulfide Deposit At Rio Tinto, Spain: Implications For Extant Life On Mars",1.0,243
+25,5,19,3,20050166970,"Searching for Life Underground: An Analysis of Remote Sensing Observations of a Drill Core from Rio Tinto, Spain for Mineralogical Indications of Biological Activity",0.841705775910306,199
+25,5,19,4,20210000945,Assimilation of Fossil Hydrothermal Sulfide by Early Amazonian Martian Magmas: Implications for Ore Mineralization on Mars,0.32004311601488883,188
+25,5,19,5,20080012514,The Miniaturized Moessbauer Spectrometers MIMOS II on MER: Four Years of Operation - A Summary,0.2337108386188514,292
+25,5,20,1,20170012403,"Microphysical Modelling of Venus Clouds, Including Radiative Transfer",0.7667162241677556,11
+25,5,20,2,20170012400,Metal Sulfides and their Relation to Atmospheric Sulfur on Venus,0.7541637671582416,13
+25,5,20,3,20170012402,Large Stationary Gravity Waves: A Game Changer for Venus' Science,0.7314526026995505,13
+25,5,20,4,20170012390,Multispectral Day and Night Cloud Morphology of Venus from Akatsuki Cameras,0.7201772540693011,14
+25,5,20,5,20160005069,Developing A Carbonaceous Chondrite Based Simulant of Phobos,0.6086001555084417,11
+25,5,21,1,20140012976,The Asteroid Impact and Deflection Assessment Mission and its Potential Contributions to Human Exploration of Asteroids,1.0,280
+25,5,21,2,20150004598,Robotic Missions to Small Bodies and Their Potential Contributions to Human Exploration and Planetary Defense,0.9810178525086757,478
+25,5,21,3,20140017143,Robotic Reconnaissance Missions to Small Bodies and Their Potential Contributions to Human Exploration,0.9242004212021636,659
+25,5,21,4,20140002425,Human Exploration of Near-Earth Asteroids and Sample Collection Considerations,0.84493278099676,425
+25,5,21,5,20130011261,Precursor Asteroid Missions and Synergies to Human Exploration of Phobos and Deimos,0.840385362990081,195
+25,5,22,1,20230007646,Nephele: An Entry Probe & Sonde Concept for a Venus Ride-Along or Small Spacecraft Mission,0.9714046283220379,106
+25,5,22,2,20230011762,AERACEPT (Aerosol Rapid Analysis Combined Entry Probe/sonde Technology): Enabling Technology for Missions to the Venus Clouds,0.9219044420287864,341
+25,5,22,3,20230007297,Heating and Sampling Efficiency Evaluation for the Nephele Venus Cloud Sampling Mission Concept,0.9058226221262216,236
+25,5,22,4,20240012697,AERACEPT (AErosol Rapid Analysis Combined Entry Probe/sonde Technology) for the Nephele Venus Cloud Mission Concept,0.8422002879099656,359
+25,5,22,5,19860021146,Preliminary results of measurements by automated probes Vega 1 and 2 or particle concentration in clouds of Venus at heights 47-63 KM,0.5730094289737845,139
+25,5,23,1,20160001045,Lighting Condition Analysis for Mars' Moon Phobos,1.0,230
+25,5,23,2,20150019633,Lighting Condition Analysis for Mars' Moon Phobos,0.9877048377813613,241
+25,5,23,3,20150013833,Lighting Condition Analysis for Mars Moon Phobos,0.8081335415190779,348
+25,5,23,4,20250003743,Discriminative Methodology Applied to the Unscented Transform in SE(3),0.5892588725015234,198
+25,5,23,5,20240012059,Discriminative Methodology using the Unscented Transform in Special Euclidean Group SE(3) for Autonomous GN&C,0.5871579861595541,204
+25,5,24,1,20160006327,Mars Hybrid Propulsion System Trajectory Analysis: Cargo Missions - Part II,0.9954770489925627,254
+25,5,24,2,19990019002,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.945806905124631,544
+25,5,24,3,20030014643,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.9446282158831039,543
+25,5,24,4,20160006328,Mars Hybrid Propulsion System Trajectory Analysis: Crew Missions - Part I,0.9117321854751154,204
+25,5,24,5,20150013809,The Effects of Reducing the Structural Mass of the Transit Habitat on the Cryogenic Propellant Required for a Human Phobos Mission,0.894079157844663,158
+30,4,0,1,20200001602,Strategic Implications of Phobos as a Staging Point for Mars Surface Missions,1.0,226
+30,4,0,2,20205011538,Strategic Implications of Phobos as a Staging Point for Mars Surface Missions,1.0,222
+30,4,0,3,20120009026,Alternative Strategies for Exploring Mars and the Moons of Mars,0.8744168031077869,269
+30,4,0,4,20150021032,Phobos Mobility Simulation,0.4383922699173789,129
+30,4,0,5,20160009226,Mars Surface Operations via Low-Latency Telerobotics from Phobos,0.3581404659194314,65
+30,4,1,1,20220013482,The Gateway as a Building Block for Space Exploration and Development,0.9922540632785707,275
+30,4,1,2,20220003125,The Gateway as a Building Block for Space Exploration and Development,0.9921242589605083,274
+30,4,1,3,20100040646,Extravehicular Activity (EVA) Technology Development Status and Forecast,0.9407363164804717,397
+30,4,1,4,20110012989,Extravehicular Activity Technology Development Status and Forecast,0.9303649051614696,375
+30,4,1,5,19940020711,"New Technologies for Space Avionics, 1993",0.9079488903365609,84
+30,4,2,1,20160001045,Lighting Condition Analysis for Mars' Moon Phobos,1.0,230
+30,4,2,2,20150019633,Lighting Condition Analysis for Mars' Moon Phobos,0.988095790971433,241
+30,4,2,3,20150013833,Lighting Condition Analysis for Mars Moon Phobos,0.8038008362542876,348
+30,4,2,4,20250003743,Discriminative Methodology Applied to the Unscented Transform in SE(3),0.5713437638365595,198
+30,4,2,5,20240012059,Discriminative Methodology using the Unscented Transform in Special Euclidean Group SE(3) for Autonomous GN&C,0.5704421542903235,204
+30,4,3,1,19900020832,Data catalog series for space science and applications flight missions. Volume 1B: Descriptions of data sets from planetary and heliocentric spacecraft and investigations,0.9970169280903033,127
+30,4,3,2,19900020099,"Data catalog series for space science and applications flight missions. Volume 1A: Descriptions of planetary and heliocentric spacecraft and investigations, second edition",0.9894366020452854,126
+30,4,3,3,19900020824,Data catalog series for space science and applications flight missions. Volume 3B: Descriptions of data sets from low- and medium-altitude scientific spacecraft and investigations,0.9843255075113023,133
+30,4,3,4,19900020807,Data catalog series for space science and applications flight missions. Volume 4B: Descriptions of data sets from meteorological and terrestrial applications spacecraft and investigations,0.9808703769367353,131
+30,4,3,5,19900020098,Data Catalog Series for Space Science and Applications Flight Missions: Descriptions of Data Sets from Geostationary and High-Altitude Scientific Spacecraft and Investigations - Volume 2B,0.9789566295668766,133
+30,4,4,1,19690018495,Mutual perturbations of Mars' satellites,0.9940667831970467,14
+30,4,4,2,19940011874,"A simultaneous estimation of the mass of Mars and its natural satellites, Phobos and Deimos, from the orbital perturbations on the Mariner 9, Viking 1, and Viking 2 orbiters",0.918740760037908,147
+30,4,4,3,19870005709,Phobos and Deimos: Satellites of Mars,0.8390357628373488,54
+30,4,4,4,19750019915,Accuracy of estimating the masses of Phobos and Deimos from multiple Viking orbiter encounters,0.7548980248976029,107
+30,4,4,5,19720020227,"A study of system requirements for Phobos/Deimos missions.  Volume 2:  Phase 1 results, satellite rendezvous and landing missions",0.7038927933260186,49
+30,4,5,1,19890007335,Exploration Studies Technical Report - Volume 1: Technical Summary,1.0,147
+30,4,5,2,19890006474,"Exploration Studies Technical Report - Volume 3: Special Reports, Studies, and Indepth Systems Assessments",0.9879710947620755,170
+30,4,5,3,19890007336,Exploration Studies Technical Report - Volume 2: Studies Approach and Results,0.9833275514054008,229
+30,4,5,4,19890013614,Human exploration mission studies,0.45237440818877844,243
+30,4,5,5,20030057823,On-Orbit Assembly Task Definition Study,0.40793388033046646,314
+30,4,6,1,20230007646,Nephele: An Entry Probe & Sonde Concept for a Venus Ride-Along or Small Spacecraft Mission,0.970831505606811,106
+30,4,6,2,20230011762,AERACEPT (Aerosol Rapid Analysis Combined Entry Probe/sonde Technology): Enabling Technology for Missions to the Venus Clouds,0.9107592510043918,341
+30,4,6,3,20230007297,Heating and Sampling Efficiency Evaluation for the Nephele Venus Cloud Sampling Mission Concept,0.9041065190400379,236
+30,4,6,4,20240012697,AERACEPT (AErosol Rapid Analysis Combined Entry Probe/sonde Technology) for the Nephele Venus Cloud Mission Concept,0.8230839243058924,359
+30,4,6,5,19860015844,Preliminary results of the Vega 1 and Vega 2 optical investigation of aerosol in the atmosphere of Venus at 30-60 KM,0.5694926985098453,129
+30,4,7,1,20240010947,The Active Volcanoes of Kamchatka as Suitable Terrestrial Analogs Within the AVENGERS Initiative: An Opportunity for In-Situ Operational Tests for Future Landing Venus Missions,1.0,504
+30,4,7,2,20240001813,Active Volcanoes of Kamchatka as Suitable Terrestrial Analogs for Future Landing Missions and for Change Detection Analysis on Venus,0.9929347865474132,486
+30,4,7,3,20220013011,Idunn Mons as the landing site of the Venera-D mission: scientific relevance and possible operational tests on Mount Etna.,0.9562399426997402,155
+30,4,7,4,20220016076,Geologically Recent Areas as One Key Target for Identifying Active Volcanism on Venus,0.9408494796794047,175
+30,4,7,5,20220007556,Future Orbiting and In-Situ Exploration of Venus: Mount Etna as Terrestrial Analog,0.7276351089523716,211
+30,4,8,1,20230000534,Overview of the Bedrock Geochemistry and Mineralogy Observed By Supercam During Perseverance’S Delta Front Campaign,0.962862110767263,175
+30,4,8,2,20240000797,"What Are the Olivine-Rich Boulders in the Upper Fan and Margin Unit at Jezero Crater, Mars?",0.9445581289434285,159
+30,4,8,3,20250000309,Igneous Compositions in the Rim of Jezero Crater Using Supercam Data,0.9150093323654216,182
+30,4,8,4,20230000582,"Sedimentology and Stratigraphy of the Lower Delta Sequence, Jezero Crater, Mars.",0.9004902727915892,115
+30,4,8,5,20230000557,Stratigraphic Relationships of the Western Delta and Crater Floor in Jezero Crater From Rimfax Gpr Observations.,0.8701803994630964,109
+30,4,9,1,19720017235,Apollo 14:  Some geochemical aspects,0.9646262932420031,124
+30,4,9,2,19720026173,Evidence on the composition and mineralogy of the lunar highlands,0.8843269511753407,74
+30,4,9,3,19720007196,Soil mechanics results of Luna 16 and Lunokhod 1:  A preliminary report,0.8695618221203266,87
+30,4,9,4,19720019064,"Bulk, rare earth and other trace elements in Apollo 14 and 15 and Luna 16 samples",0.8276535739167495,173
+30,4,9,5,19720006190,Microprobe analyses of glasses and minerals from Luna-16 soil,0.8086556139353192,79
+30,4,10,1,20050176026,"Characterization of a Subsurface Biosphere in a Massive Sulfide Deposits at Rio Tinto, Spain: Implications for Extant Life on Mars",1.0,243
+30,4,10,2,20050185076,"Characterization of a Subsurface Biosphere in a Massive Sulfide Deposit At Rio Tinto, Spain: Implications For Extant Life On Mars",1.0,243
+30,4,10,3,20050166970,"Searching for Life Underground: An Analysis of Remote Sensing Observations of a Drill Core from Rio Tinto, Spain for Mineralogical Indications of Biological Activity",0.8532083907121574,199
+30,4,10,4,20210000945,Assimilation of Fossil Hydrothermal Sulfide by Early Amazonian Martian Magmas: Implications for Ore Mineralization on Mars,0.3414033742851975,188
+30,4,10,5,20240000608,Field Tests With Trident Drill in Bishop Tuff Help Prepare for Future Missions to Moon and Mars,0.21596851222073699,191
+30,4,11,1,19930005201,Structural characteristics and tectonics of northeastern Tellus Regio and Meni Tessera,0.9820213866834505,158
+30,4,11,2,19920001524,Morphology and evolution of coronae and ovoids on Venus,0.9746041045039052,144
+30,4,11,3,19900003110,Tessera terrain: Characteristics and models of origin,0.9602257361633146,180
+30,4,11,4,20110002765,Comparison of Mapping Tessera Terrain in the Phoebe Regio (V-41) and Tellus Tessera (V-10) Quadrangles,0.9353403867357173,171
+30,4,11,5,19900003117,"Evidence for volcanism in NW Ishtar Terra, Venus",0.8863236890747496,270
+30,4,12,1,19790020954,A flaring X-ray pulsar in Dorado,0.9623606744990127,45
+30,4,12,2,19790012800,Preliminary results of a gamma-ray burst study in the Konus experiment on the Venera-11 and Venera-12 space probes,0.9499546519766282,90
+30,4,12,3,19950017126,Statistical properties of the time histories of cosmic gamma-ray bursts detected by the BATSE experiment of the Compton gamma-ray observatory,0.89681755643087,101
+30,4,12,4,19850025599,A second catalog of gamma ray bursts:  1978 - 1980 localizations from the interplanetary network,0.8304166780890263,113
+30,4,12,5,19850026433,Two types of electron events in solar flares,0.7214104731389913,141
+30,4,13,1,19680026127,Sudy of the Propagation of Decimeter Radiowaves in the Atmosphere of Venus with the Aid of AIS ''venera 4'',0.9877340353045755,31
+30,4,13,2,19710008490,Study of the dynamic of the Venus atmosphere using the automatic interplanetary stations Venera-5 and Venera-6,0.9409701176848722,26
+30,4,13,3,19690022784,On light refraction in the atmosphere of Venus,0.8515631528510942,20
+30,4,13,4,19680011874,Model atmosphere of planet Venus according to the results of measurements on the Soviet automatic interplanetary station Venera-4,0.7749209246175685,30
+30,4,13,5,19690006195,Sixth start to Venus,0.7712319555050043,10
+30,4,14,1,20130013949,"The Violent Early Solar System, as Told by Sample Geochronology",0.7934867130797977,320
+30,4,14,2,20130003170,"The Violent Early Solar System, as Told by Lunar Sample Geochronology",0.7907316265235472,321
+30,4,14,3,19930005103,Ringed impact craters on Venus: An analysis from Magellan images,0.7703749751711836,71
+30,4,14,4,19940023803,Some implications of large impact craters and basins on Venus for terrestrial ringed craters and planetary evolution,0.6737847489710426,137
+30,4,14,5,19930000978,What can we learn about impact mechanics from large craters on Venus?,0.6531671036517495,327
+30,4,15,1,20210011308,Pneumatic Sampler (P-SAMPLER) for the Martian Moons Exploration (MMX),0.9913808553414182,60
+30,4,15,2,20210010554,PNEUMATIC  SAMPLER  (P-SAMPLER)  FOR  THE  MARTIAN  MOONS  EXPLORATION (MMX),0.9827086097062315,99
+30,4,15,3,20230000373,Curation protocol of Phobos sample returned by the Martian Moon Exploration (MMX),0.9346903033325977,81
+30,4,15,4,20210013273,Pneumatic Sampler (P-Sampler) for the Martian Moons Exploration (MMX),0.8167684717670598,243
+30,4,15,5,20210022478,Pneumatic Sampler (P-Sampler) for the Martian Moons Exploration (MMX),0.7641298263102643,218
+30,4,16,1,19670002825,Stratified and faceted shapes on panoramas obtained from the station Luna-9,0.7745642868273794,22
+30,4,16,2,19670002405,Luna-10 transmits photographs,0.7279045011617626,12
+30,4,16,3,19660022601,Soviet press communiques and the Pravda editorial on ''Luna-9'' soft landing on the moon,0.7275641053960109,26
+30,4,16,4,19670002910,Scientific results of processing of panoramas obtained from photographs of the lunar surface taken from ''Luna-9'',0.7011723834864456,25
+30,4,16,5,19670002879,Study of the soft corpuscular radiation on the AMS ''Luna-10'',0.6838361762785272,18
+30,4,17,1,19930010046,Evolution of near UV Halley's spectrum in the inner coma,0.9621813571775125,100
+30,4,17,2,19890003992,Optical properties of cometary grains,0.9541509861153937,225
+30,4,17,3,19890003981,Detection of parent molecules in the IR spectrum of P/Halley with the IKS-Vega spectrometer,0.9263324291880216,125
+30,4,17,4,19890003967,The 3.4 micrometer emission feature in Comet Halley,0.9206554230828212,108
+30,4,17,5,19890003971,Possible identifications of the 3.4 micrometer feature,0.8479116350251823,184
+30,4,18,1,20010013008,Second Mars Surveyor Landing Site Workshop,0.844585643522685,64
+30,4,18,2,19940020398,Workshop on Atmospheric Transport on Mars,0.8376392977172037,151
+30,4,18,3,19940033285,Workshop on Scaling Effects in Composite Materials and Structures,0.7914071179013163,96
+30,4,18,4,19780005549,Abstracts for the Planetary Geology Field Conference on Aeolian Processes,0.7655941869317152,112
+30,4,18,5,19930005100,Papers presented to the International Colloquium on Venus,0.6986122695342041,110
+30,4,19,1,20160005857,Overview of NASA Finesse (Field Investigations to Enable Solar System Science and Exploration) Science and Exploration Project,0.9741022698362299,120
+30,4,19,2,20160003703,Pre-Mission Input Requirements to Enable Successful Sample Collection by A Remote Field/EVA Team,0.9445591334227506,247
+30,4,19,3,20150023448,Overview of NASA FINESSE (Field Investigations to Enable Solar System Science and Exploration) Science and Exploration Results,0.8800414466746199,215
+30,4,19,4,20150023013,FINESSE: Field Investigations to Enable Solar System Science and Exploration,0.7569539577243454,502
+30,4,19,5,20150023612,Pre-Mission Input Requirements to Enable Successful Sample Collection by a Remote Field/EVA Team,0.5874758272702636,1339
+30,4,20,1,20250011160,What Are CI1-Like Lithologies in Non-CI Meteorites? The Case of Kaidun,0.9990961849184582,385
+30,4,20,2,20250009390,What Are the CI1-Like Lithologies in Non-CI Meteorites? The Case of Kaidun,0.998928772840535,374
+30,4,20,3,20120003093,Oxygen Isotope Compositions of the Kaidun Meteorite - Indications for Aqeuous Alteration of E-Chondrites,0.954112109537566,185
+30,4,20,4,20220002664,"Regolith Processes Revealed by Carbonaceous Chondrites with Implications for Asteroids Ryugu and Bennu, and the Martian Moon Phobos",0.6352376813316352,70
+30,4,20,5,20240008763,Tarda and Tagish Lake: Samples From The Same Outer Solar System Asteroid and Implications for D- and P-Type Asteroids,0.4634169644350752,333
+30,4,21,1,20210024709,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,0.9952187320471392,343
+30,4,21,2,20210024804,Mars 2020 Reconstructed Aerothermal Environments and Design Margins,0.9952187320471392,343
+30,4,21,3,20220007618,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9891152154533586,258
+30,4,21,4,20220009242,Lessons Learned from Aerothermal Flight Data on NASA Mars Entry Vehicles,0.9891152154533586,258
+30,4,21,5,20230006697,Exploring the Accuracy of RANS Simulations for Mars Entry Vehicles,0.6647227599713049,187
+30,4,22,1,19670002918,Measurements of the magnetic field in the vicinity of the moon on the AMS Luna-10,0.7939406592518267,24
+30,4,22,2,19670009630,Investigation of the magnetic field from the AMS Luna-10,0.765110062449594,22
+30,4,22,3,19680020405,Magnetic Field Investigations with AIS ''VENERA-4'',0.6345198325790727,18
+30,4,22,4,19670019546,Possible interpretation of the results of measurements on the near-lunar satellite ''AMS Luna-10'',0.617849519981686,28
+30,4,22,5,19780005041,The magnetic field of Mars estimated from the data of plasma measurements by Soviet artificial satellites of Mars,0.6135929319266498,99
+30,4,23,1,20050176003,Contribution of Organic Material to the Stable Isotope Composition of Some Terrestrial Carbonates as Analogs for Martian Processes,0.9967042147111246,213
+30,4,23,2,20205008498,The Search for Chiral Asymmetry as a Potential Biosignature in Samples from Mars,0.9428961042313758,488
+30,4,23,3,20210026481,The Search for Chiral Asymmetry as a Potential Biosignature in Samples from Mars,0.9232277364150113,574
+30,4,23,4,20080026353,Isotope Variations in Terrestrial Carbonates and Thermal Springs as Biomarkers: Analogs for Martian Processes,0.8141926986813377,239
+30,4,23,5,19840027180,The Search for Martian Life Begins: 1959-1965,0.7576482677557755,114
+30,4,24,1,20160006327,Mars Hybrid Propulsion System Trajectory Analysis: Cargo Missions - Part II,0.971037334816522,254
+30,4,24,2,19990019002,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.9445531187190395,544
+30,4,24,3,20030014643,"Vehicle and Mission Design Options for the Human Exploration of Mars/Phobos Using ""Bimodal"" NTR and LANTR Propulsion",0.9395948321532014,543
+30,4,24,4,20160006328,Mars Hybrid Propulsion System Trajectory Analysis: Crew Missions - Part I,0.9056100612984747,204
+30,4,24,5,20150013809,The Effects of Reducing the Structural Mass of the Transit Habitat on the Cryogenic Propellant Required for a Human Phobos Mission,0.8625856040225309,158
+30,4,25,1,19670017091,Comparison of Certain Results of Simultaneous Measurements of Solar Wind Characteristics on Spacecrafts ''Venera-3'' and ''Pioneer-6'',0.9545226651289831,31
+30,4,25,2,19760018039,On the nature of the solar-wind-Mars interaction,0.8510879540759596,59
+30,4,25,3,19740022200,An analysis of the Venera 8 measurements,0.7669647482988696,141
+30,4,25,4,19680024686,Variations of solar wind's ion fluxes during the increase of solar activity level according to the measurement data of ''Venera-2'' and ''Venera-4'',0.7453871551384774,42
+30,4,25,5,19800014751,Venera-11 and Venera 12:  Preliminary estimates for the wind speed and turbulence in the atmosphere of Venus,0.6809000745117055,81
+30,4,26,1,20160012783,The Miniaturized Mossbauer Spectrometer MIMOS II for the Asteroid Redirect Mission (ARM): Quantitative Iron Mineralogy and Oxidation States,0.9198831648161028,90
+30,4,26,2,20160010676,The Miniaturized Moessbauer Spectrometer MIMOS II for the Asteroid Redirect Mission(ARM): Quantative Iron Mineralogy And Oxidation States,0.9175300967153586,122
+30,4,26,3,20140016565,"Mars, Phobos, and Deimos Sample Return Enabled by ARRM Alternative Trade Study Spacecraft",0.8550962645755387,157
+30,4,26,4,20140017471,"Mars, Phobos, and Deimos Sample Return Enabled by ARRM Alternative Trade Study Spacecraft",0.8550962645755387,157
+30,4,26,5,20080012514,The Miniaturized Moessbauer Spectrometers MIMOS II on MER: Four Years of Operation - A Summary,0.35517891224453707,292
+30,4,27,1,20170012403,"Microphysical Modelling of Venus Clouds, Including Radiative Transfer",0.7705213196734897,11
+30,4,27,2,20170012390,Multispectral Day and Night Cloud Morphology of Venus from Akatsuki Cameras,0.7241347369954328,14
+30,4,27,3,20170012400,Metal Sulfides and their Relation to Atmospheric Sulfur on Venus,0.7204086425272894,13
+30,4,27,4,20170012402,Large Stationary Gravity Waves: A Game Changer for Venus' Science,0.7163202340103328,13
+30,4,27,5,20160001864,Thermal Emission Observation of Phobos: Compositional Interpretations,0.5818788421753263,10
+30,4,28,1,20150004598,Robotic Missions to Small Bodies and Their Potential Contributions to Human Exploration and Planetary Defense,0.9901546609616135,478
+30,4,28,2,20140017143,Robotic Reconnaissance Missions to Small Bodies and Their Potential Contributions to Human Exploration,0.9497971085309046,659
+30,4,28,3,20140012976,The Asteroid Impact and Deflection Assessment Mission and its Potential Contributions to Human Exploration of Asteroids,0.9431446707595542,280
+30,4,28,4,20140002425,Human Exploration of Near-Earth Asteroids and Sample Collection Considerations,0.8219966623408906,425
+30,4,28,5,20120018073,"Missions to Near-Earth Asteroids: Implications for Exploration, Science, Resource Utilization, and Planetary Defense",0.8207775760461955,527
+30,4,29,1,20160003505,Neutron Spectroscopy Can Constrain the Composition and Provenance of Phobos and Deimos,1.0,137
+30,4,29,2,20160004034,Neutron Spectroscopy Can Constrain the Composition and Provenance of Phobos and Deimos,1.0,142
+30,4,29,3,20150023447,Using Neutron Spectroscopy to Constrain the Composition and Provenance of Phobos and Deimos,0.8399120158275221,274
+30,4,29,4,20170001703,"Dust Infall Onto Phobos and Deimos Can Explain Their Carbonaceous Reflectance Signature, Perhaps Overlying a Mars-Impact-Origin Core: A Hypothesis",0.6232541242072867,175
+30,4,29,5,20160009085,Everyone Wins: A Mars-Impact Origin for Carbonaceous Phobos and Deimos,0.5704732536955776,131

@@ -1,0 +1,55 @@
+{
+  "script_sha256": "8ac973bfb239d0a14d660612d5a55860bef25b81e36c278129b26d4eafbdad73",
+  "experiment_sha256": "62bc3a80b84bee99720f3a5a73804bb63404acc84519948ce039bc6518c11662",
+  "reference_factors_sha256": "45088eb2fdcfe6cc66f813d5885aef970cc7ff5b23c8537250bdcf717baaa67d",
+  "duplicates_file_sha256": "9b4e4fc4d4e4a8d01bbe1b3b0a555dc543a9d6a8ceb07f183a982510aababd74",
+  "matrix_sha256": "60a71504113774217bf6cc2982d0554b76ea37b0f9ef1e5804807f0999eae74d",
+  "reference_seed": 7,
+  "duplicate_groups": [
+    {
+      "kept": "20210024709",
+      "removed": [
+        "20210024804"
+      ]
+    },
+    {
+      "kept": "20220007618",
+      "removed": [
+        "20220009242"
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "scenario": "collapse_identical_metadata",
+      "retained_records": 591,
+      "excluded_records": 2,
+      "mean_pairwise_cosine": 0.8976525823130255,
+      "mean_cosine_to_reference": 0.8456176224131197,
+      "convergence_warnings": 0
+    },
+    {
+      "scenario": "abstract_at_least_20_words",
+      "retained_records": 531,
+      "excluded_records": 62,
+      "mean_pairwise_cosine": 0.8484405193640925,
+      "mean_cosine_to_reference": 0.78162068715856,
+      "convergence_warnings": 0
+    }
+  ],
+  "method": {
+    "k": 10,
+    "vocabulary_and_idf": "fixed from baseline",
+    "topic_alignment": "maximum-sum cosine assignment",
+    "weight_comparison": "new model versus baseline, both averaged over the same retained records"
+  },
+  "limitations": [
+    "Scenarios are separate, not combined.",
+    "Reference comparison includes initialization variability.",
+    "Forced topic alignment does not prove semantic equivalence.",
+    "No full-pipeline vocabulary or IDF refitting.",
+    "Short abstracts are not declared invalid.",
+    "Identical metadata are not proven duplicate publications.",
+    "Weight ranges are not confidence intervals."
+  ]
+}
