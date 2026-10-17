@@ -8,8 +8,10 @@ version = "0.1.0"
 description = "Reproducible document processing with an experimental ML scheduler"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = ["psycopg[binary]>=3.3,<4"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
 include = ["lavochkin_pipeline*"]
+[tool.setuptools.package-data]
+"lavochkin_pipeline.catalog" = ["migrations/*.sql"]

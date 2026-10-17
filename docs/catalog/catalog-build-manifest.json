@@ -1,0 +1,10 @@
+{
+  "builder": "build_pages_catalog.py",
+  "built_at": "2026-10-17T08:26:40.791749+00:00",
+  "documents": 604,
+  "topics": 10,
+  "profile_documents": 593,
+  "data_bytes": 955545,
+  "data_sha256": "edb971c6a3efd954ed7071a67a885b7c5775c99e688e0769d217868f767aa3d8",
+  "full_text_published": false
+}
