@@ -1,0 +1,35 @@
+{
+  "representation": "title + abstract, k=10; all corpus records in catalog",
+  "documents": 604,
+  "modeled": 593,
+  "seed": 7,
+  "sources": [
+    {
+      "path": "data\\ntrs\\research\\corpus_v2\\documents.jsonl",
+      "sha256": "e4b58fb76892a592bdf6a8778895caa7b6a07ee76508be845165d1f500dab119"
+    },
+    {
+      "path": "data\\ntrs\\research\\corpus_v2\\manifest.json",
+      "sha256": "320f1d27e4d85cdc0a04b1471d82ec60ff6bc51b5b83f7b98a769f5ef6aa239f"
+    },
+    {
+      "path": "docs\\research\\ntrs-topic-analysis\\artifacts\\representative_topics.csv",
+      "sha256": "9bc04ca6c7c2bb06767b4f38a8f3f043335a45d66ab7fefc9ee7d6912be1515c"
+    },
+    {
+      "path": "docs\\research\\ntrs-topic-analysis\\artifacts\\representative_record_profiles.csv",
+      "sha256": "8c6a3bef92a7041c9e1adaea2aa5a60877bc9cb00bf96696ccba7ba14b044cdd"
+    },
+    {
+      "path": "docs\\research\\ntrs-topic-analysis\\artifacts\\representative_examples.csv",
+      "sha256": "d1461f20ceabc84f392814d189a28802a604dcf74c61ee6be6cc88de2f871b9e"
+    }
+  ],
+  "generator_sha256": "89107d6b4a00d23e6ec5f4649c61fb305e91b756a5e5a6aaa8062fc9564c9224",
+  "html_sha256": "4edee7ef7a886dfce27c9ed6fd2c182610971ed468dd32d9219b6096d10e6bb4",
+  "limitations": [
+    "No independent classification validation.",
+    "Initialization stability is not classification confidence.",
+    "No full text, local path or credentials included in published document records."
+  ]
+}
